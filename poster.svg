@@ -24,19 +24,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04375"
-     inkscape:cx="3100.1852"
-     inkscape:cy="2093.912"
+     inkscape:zoom="0.125"
+     inkscape:cx="2148.2682"
+     inkscape:cy="1855.8353"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="false">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3004"
@@ -45,6 +47,26 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-30,35"
+       id="guide3758" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="35,165"
+       id="guide3760" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-15.771484,4216.5528"
+       id="guide3762" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="6342.5158,4280.2278"
+       id="guide3764" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="997.02056,3684.0263"
+       id="guide3766" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -54,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,5 +84,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3199.6075)" />
+     transform="translate(0,3199.6075)">
+    <rect
+       style="opacity:0.67901234;fill:none;stroke:#000000;stroke-width:1.77247584;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2988"
+       width="6305.3145"
+       height="4179.3301"
+       x="36.319309"
+       y="-3163.2886" />
+  </g>
 </svg>
