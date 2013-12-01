@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="6377.9526"
@@ -16,7 +17,78 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="poster.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <clipPath
+       id="clipPath3676"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3678"
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3666"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3668"
+         d="m 3189.2,663.602 0,-243.602 243.6,0 0,243.602 -243.6,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3568"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3570"
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3556"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3558"
+         d="m 4203.2,3936 0,-3524.398 199.2,0 0,3524.398 -199.2,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3342"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3344"
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3248"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3250"
+         d="m 1510.4,2608.8 0,-426 706.8,0 0,426 -706.8,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3238"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3240"
+         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3190"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3192"
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3054"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3056"
+         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3040"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3042"
+         d="m 0.800781,2.40234 4829.200019,0 0,4187.59996 -4829.200019,0 0,-4187.59996 z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,17 +96,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="2148.2682"
-     inkscape:cy="1855.8353"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="4402.0393"
+     inkscape:cy="2648.4194"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="cm"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -92,5 +164,129 @@
        height="4179.3301"
        x="36.319309"
        y="-3163.2886" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly0_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly0_km.png"
+       width="531.49603"
+       height="471.51236"
+       id="image4384"
+       x="177.16536"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
+       width="531.49603"
+       height="471.51236"
+       id="image4465"
+       x="885.82678"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly100_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly100_km.png"
+       width="531.49603"
+       height="471.51236"
+       id="image4530"
+       x="1594.4882"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile0_km.png"
+       xlink:href="./Figs/grav/bouguer_profile0_km.png"
+       width="531.49603"
+       height="412.29349"
+       id="image4595"
+       x="177.16539"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile50_km.png"
+       xlink:href="./Figs/grav/bouguer_profile50_km.png"
+       width="531.49603"
+       height="418.97775"
+       id="image4660"
+       x="885.82678"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile100_km.png"
+       xlink:href="./Figs/grav/bouguer_profile100_km.png"
+       width="531.49603"
+       height="418.97775"
+       id="image4725"
+       x="1594.4882"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz0_km.png"
+       xlink:href="./Figs/grav/gzz0_km.png"
+       width="531.49603"
+       height="475.85699"
+       id="image4790"
+       x="2834.6458"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz50_km.png"
+       xlink:href="./Figs/grav/gzz50_km.png"
+       width="531.49603"
+       height="475.85699"
+       id="image4855"
+       x="3543.3071"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz100_km.png"
+       xlink:href="./Figs/grav/gzz100_km.png"
+       inkscape:transform-center-y="1737.095"
+       inkscape:transform-center-x="2819.6118"
+       width="531.49603"
+       height="475.85699"
+       id="image4920"
+       x="4251.9688"
+       y="-2490.9463" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile0_km.png"
+       xlink:href="./Figs/grav/gzz_profile0_km.png"
+       inkscape:transform-center-y="-209.48888"
+       inkscape:transform-center-x="88.58261"
+       width="531.49603"
+       height="418.97775"
+       id="image5020"
+       x="2834.6458"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile50_km.png"
+       xlink:href="./Figs/grav/gzz_profile50_km.png"
+       width="531.49603"
+       height="425.88232"
+       id="image5085"
+       x="3543.3071"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile100_km.png"
+       xlink:href="./Figs/grav/gzz_profile100_km.png"
+       width="531.49603"
+       height="415.5603"
+       id="image5150"
+       x="4251.9683"
+       y="-1782.2849" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Dados4.png"
+       xlink:href="./Figs/Dados4.png"
+       width="588"
+       height="722"
+       id="image5215"
+       x="1062.9921"
+       y="-719.29279" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/topo.png"
+       xlink:href="./Figs/Geologia/topo.png"
+       width="708.66144"
+       height="786.67603"
+       id="image5296"
+       x="2125.9841"
+       y="-896.45813" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/geologia.png"
+       xlink:href="./Figs/Geologia/geologia.png"
+       width="708.66144"
+       height="451.13504"
+       id="image5342"
+       x="2921.8882"
+       y="-311.18973" />
   </g>
 </svg>
