@@ -237,9 +237,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.05656854"
-     inkscape:cx="1114.6935"
-     inkscape:cy="314.03353"
+     inkscape:zoom="0.11313708"
+     inkscape:cx="4389.6521"
+     inkscape:cy="1660.4341"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -309,36 +309,36 @@
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Dados4.png"
        xlink:href="./Figs/Dados4.png"
-       transform="matrix(1.0244255,0,0,1.0244255,-47.600917,43.138472)"
-       clip-path="url(#clipPath6119)"
-       y="-2433.4187"
-       x="1948.8188"
-       id="image5215"
+       width="588"
        height="722"
-       width="588" />
+       id="image5215"
+       x="1948.8188"
+       y="-2433.4187"
+       clip-path="url(#clipPath6119)"
+       transform="matrix(1.0846858,0,0,1.0846858,-1157.8911,174.74963)" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/geologia.png"
        xlink:href="./Figs/Geologia/geologia.png"
-       y="-1446.2435"
-       x="1043.0079"
+       width="1062.9921"
+       height="676.70258"
        id="image5342"
-       height="631.58905"
-       width="992.12598" />
+       x="1043.0079"
+       y="-1491.3571" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4317"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(114.66359,-3346.6382)"><flowRegion
+       transform="translate(-927.018,-3327.13)"><flowRegion
          id="flowRegion4319"><rect
            id="rect4321"
-           width="1415.625"
-           height="703.125"
+           width="770.39001"
+           height="764.99683"
            x="2540.625"
            y="898.35132" /></flowRegion><flowPara
          id="flowPara4323"
-         style="text-align:justify;text-anchor:start">The great development in collecting gravity and topographic data in the last three decades enabled the representation of the gravity field of a large segment of the South American (SAM) plate. High resolution (5'x 5') digital gravity models in the region defined by 25N – 65S and 95W – 20W integrating conventional land surveys and satellite missions derived gravity were computed. The used methodology consists in combining global geopotential models with gravity and topographic data for the representation of the gravity field. For each set of data, the processing was carried out in three steps: 1) standardization, evaluation and ressampling of the basic data; 2) data gathering by merging different files; and 3) computation of digital models. (Sá, 2004). </flowPara></flowRoot>    <g
+         style="font-size:32px;text-align:justify;text-anchor:start">The great development in collecting gravity and topographic data in the last three decades enabled the representation of the gravity field of a large segment of the South American (SAM) plate. High resolution (5'x 5') digital gravity models in the region defined by 25N – 65S and 95W – 20W integrating conventional land surveys and satellite missions derived gravity were computed. The used methodology consists in combining global geopotential models with gravity and topographic data for the representation of the gravity field. For each set of data, the processing was carried out in three steps: 1) standardization, evaluation and ressampling of the basic data; 2) data gathering by merging different files; and 3) computation of digital models. (Sá, 2004). </flowPara></flowRoot>    <g
        id="g6110"
-       transform="translate(-575.38902,-77.118226)">
+       transform="translate(-1538.8221,-112.47357)">
       <rect
          style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:5.20183134;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect5285-3-6"
@@ -363,7 +363,7 @@
            style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">SOUTH AMERICAN PLATE GRAVITY FIELD</flowPara></flowRoot>    </g>
     <g
        id="g6480"
-       transform="translate(0,20.364293)">
+       transform="translate(-1666.1204,33.622546)">
       <path
          style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.93303585;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 4325.0157,-2593.7063 c 636.151,0 1272.3018,0 1908.4528,0 0,32.5486 0,65.0972 0,97.6457 -636.151,0 -1272.3018,0 -1908.4528,0 0,-32.5485 0,-65.0971 0,-97.6457 z"
@@ -391,7 +391,7 @@
     </g>
     <g
        id="g4273"
-       transform="translate(4145.3838,-2447.5296)">
+       transform="translate(2419.8411,-2512.7485)">
       <g
          id="g4228">
         <g
@@ -401,85 +401,85 @@
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly0_km.png"
              xlink:href="./Figs/grav/bouguer_anomaly0_km.png"
-             width="354.33072"
-             height="314.34158"
-             id="image4384"
+             y="64.790932"
              x="177.16536"
-             y="64.790932" />
+             id="image4384"
+             height="314.34158"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
              xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
-             width="354.33072"
-             height="314.34158"
-             id="image4465"
+             y="64.790932"
              x="956.69293"
-             y="64.790932" />
+             id="image4465"
+             height="314.34158"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly100_km.png"
              xlink:href="./Figs/grav/bouguer_anomaly100_km.png"
-             width="354.33072"
-             height="314.34158"
-             id="image4530"
+             y="64.790932"
              x="1736.2205"
-             y="64.790932" />
+             id="image4530"
+             height="314.34158"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile0_km.png"
              xlink:href="./Figs/grav/bouguer_profile0_km.png"
-             width="354.33072"
-             height="274.86234"
-             id="image4595"
+             y="423.16772"
              x="177.16536"
-             y="423.16772" />
+             id="image4595"
+             height="274.86234"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile50_km.png"
              xlink:href="./Figs/grav/bouguer_profile50_km.png"
-             width="354.33072"
-             height="279.31851"
-             id="image4660"
+             y="418.71155"
              x="956.69293"
-             y="418.71155" />
+             id="image4660"
+             height="279.31851"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile100_km.png"
              xlink:href="./Figs/grav/bouguer_profile100_km.png"
-             width="354.33072"
-             height="279.31851"
-             id="image4725"
+             y="418.71158"
              x="1736.2205"
-             y="418.71158" />
+             id="image4725"
+             height="279.31851"
+             width="354.33072" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly25_km.png"
              xlink:href="./Figs/grav/bouguer_anomaly25_km.png"
-             y="64.790833"
-             x="566.92914"
-             id="image3190"
+             width="354.33072"
              height="314.34158"
-             width="354.33072" />
+             id="image3190"
+             x="566.92914"
+             y="64.790833" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
              xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
-             y="64.790833"
-             x="1346.4567"
-             id="image3255"
-             height="314.34158"
-             width="354.33072"
+             inkscape:transform-center-y="1571.5167"
              inkscape:transform-center-x="1768.0845"
-             inkscape:transform-center-y="1571.5167" />
+             width="354.33072"
+             height="314.34158"
+             id="image3255"
+             x="1346.4567"
+             y="64.790833" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile25_km.png"
              xlink:href="./Figs/grav/bouguer_profile25_km.png"
-             y="423.16776"
-             x="566.92914"
-             id="image3320"
+             width="354.33072"
              height="274.8623"
-             width="354.33072" />
+             id="image3320"
+             x="566.92914"
+             y="423.16776" />
           <image
              sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile75_km.png"
              xlink:href="./Figs/grav/bouguer_profile75_km.png"
-             y="418.71155"
-             x="1346.4567"
-             id="image3385"
+             width="354.33072"
              height="279.31851"
-             width="354.33072" />
+             id="image3385"
+             x="1346.4567"
+             y="418.71155" />
         </g>
         <g
            id="g4066"
@@ -626,7 +626,7 @@
            height="41.984467"
            x="4143.2041"
            y="3142.6943" /></flowRegion><flowPara
-         id="flowPara4590"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4590" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4896"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -639,17 +639,17 @@
            y="1667.5931" /></flowRegion><flowPara
          id="flowPara4902">Amazon</flowPara></flowRoot>    <g
        id="g5000"
-       transform="matrix(0.86666672,0,0,0.86666672,-248.55027,60.762703)">
+       transform="matrix(0.90083007,0,0,0.90083007,-256.02365,25.476617)">
       <g
          id="g4957">
         <image
            sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/topo.png"
            xlink:href="./Figs/Geologia/topo.png"
-           y="-1699.486"
-           x="348.11526"
-           id="image5296"
+           width="1062.9921"
            height="1180.014"
-           width="1062.9921" />
+           id="image5296"
+           x="348.11526"
+           y="-1699.486" />
         <flowRoot
            xml:space="preserve"
            id="flowRoot14285-9-7"
@@ -774,7 +774,7 @@
              style="font-size:30px;text-align:center;text-anchor:middle">A</flowPara></flowRoot>      </g>
     </g>
     <flowRoot
-       transform="matrix(0.72098503,0,0,0.72098503,78.31798,-249.36078)"
+       transform="matrix(0.72098503,0,0,0.72098503,153.44808,-271.45787)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8508"
        xml:space="preserve"><flowRegion
@@ -784,9 +784,9 @@
            height="342.39914"
            width="1389.8008"
            id="rect8512" /></flowRegion><flowPara
-         style="font-size:36px;text-align:justify;text-anchor:start"
+         style="font-size:44.38372421px;text-align:justify;text-anchor:start"
          id="flowPara8514">In the left, the purple contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile. The figure above represents the geological map of the central region of the study area.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.84872653,0,0,0.84872653,-394.57656,-3191.7439)"
+       transform="matrix(0.84872653,0,0,0.84872653,1214.0914,-4261.243)"
        xml:space="preserve"
        id="flowRoot5160"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -796,15 +796,19 @@
            height="327.72467"
            x="4140.9941"
            y="2981.2637" /></flowRegion><flowPara
-         id="flowPara5166">At 100 km altitude the vertical derivative of Bouguer gravity indicate a strong correlation between positive gradient and suture zone (<flowSpan
-   style="font-weight:bold"
+         id="flowPara5166"
+         style="font-size:37.70354462px">At 100 km altitude the vertical derivative of Bouguer gravity indicate a strong correlation between positive gradient and suture zone (<flowSpan
+   style="font-size:37.70354462px;font-weight:bold"
    id="flowSpan5182">S</flowSpan>) or lower crust basalt underplating (<flowSpan
-   style="font-weight:bold"
+   style="font-size:37.70354462px;font-weight:bold"
    id="flowSpan5180">U</flowSpan>) such as in the Paraná basin (Santos and Ussami, 2011).</flowPara><flowPara
-         id="flowPara5174">Cratonic lithosphere is characterized by negative vertical gradient.</flowPara><flowPara
-         id="flowPara5168" /><flowPara
-         id="flowPara5170" /></flowRoot>    <flowRoot
-       transform="matrix(0.68666854,0,0,0.68666854,1713.0519,-189.59289)"
+         id="flowPara5174"
+         style="font-size:37.70354462px">Cratonic lithosphere is characterized by negative vertical gradient.</flowPara><flowPara
+         id="flowPara5168"
+         style="font-size:37.70354462px" /><flowPara
+         id="flowPara5170"
+         style="font-size:37.70354462px" /></flowRoot>    <flowRoot
+       transform="matrix(0.68666854,0,0,0.68666854,1788.182,-229.36765)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8054"
        xml:space="preserve"
@@ -816,9 +820,10 @@
            height="1368.3623"
            width="1155.8536"
            id="rect8058" /></flowRegion><flowPara
-         style="font-size:48px;text-align:justify;text-anchor:start"
+         style="font-size:46.60181427px;text-align:justify;text-anchor:start"
          id="flowPara8076">The Paraná Basin is a large sedimentary basin in central-eastern South America that extends through Brazil, Paraguay, Uruguay and Argentina. Evolved completely over the South American continental crust, this Paleozoic basin is filled with sedimentary and volcanic rocks deposited from the Silurian to the Cretaceous, when a significant basaltic effusion covered almost the entire area of the basin. A series of superposed sedimentary and volcanic rock layers were laid down under the influence of different tectonic settings, probably originated from distant collisional dynamics of continental boards that led to the amalgamation of Gondwanaland (Zalán et. al., 1990). In this work we used MT profiles previously collected in the states of Paraná and Mato Grosso do Sul. The MT data were collected in according to an east-west profile (E - W), in the central region of the Paraná Basin.</flowPara></flowRoot>    <g
-       id="g9138">
+       id="g9138"
+       transform="translate(-4.4194176,-44.194176)">
       <g
          id="g9131">
         <rect
@@ -901,11 +906,11 @@
          id="flowPara5083">2-D MAGNETOTELURIC INVERSION OF THE CENTRAL PART OF PARANÁ BASIN</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/FM13-logo2.png"
        xlink:href="./Figs/FM13-logo2.png"
-       width="1333.9219"
-       height="162.94284"
-       id="image5511"
+       y="-3075.2249"
        x="53.149605"
-       y="-3075.2249" />
+       id="image5511"
+       height="162.94284"
+       width="1333.9219" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5514"
@@ -927,8 +932,8 @@
        transform="translate(5189.1586,-3862.9833)">
       <a
          xlink:href="./Figs/logo/logo_cnq.svg"
-         transform="translate(106.06602,309.35923)"
-         id="a5937">
+         id="a5937"
+         transform="translate(106.06602,309.35923)">
         <g
            transform="translate(134.79221,-59.662163)"
            id="g5928">
@@ -970,23 +975,23 @@
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/2013_FMbanner.png"
        xlink:href="./Figs/2013_FMbanner.png"
-       width="1422.9464"
-       height="248.51859"
-       id="image6051"
+       y="-3501.2759"
        x="44.29134"
-       y="-3501.2759" />
+       id="image6051"
+       height="248.51859"
+       width="1422.9464" />
     <flowRoot
-       transform="matrix(1.0052009,0,0,1,-152.85825,-1481.5468)"
+       transform="matrix(0.9967215,0,0,0.99156447,-150.6933,-1484.0101)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8860"
        xml:space="preserve"><flowRegion
          id="flowRegion8862"><rect
            y="-968.81152"
            x="203.64676"
-           height="736.13196"
-           width="1700.7969"
+           height="739.66705"
+           width="857.79437"
            id="rect8864" /></flowRegion><flowPara
-         style="font-size:47.87566376px;text-align:justify;text-anchor:start;fill:#000000"
+         style="font-size:32.18863697px;text-align:justify;text-anchor:start;fill:#000000"
          id="flowPara8880">In the past years, substantial effort has been directed to improve the magnetotelluric (MT) inversion algorithms. Many different techniques were developed to estimate 2-D/3-D geoelectric models of the Earth. However, to evaluate the deep structural architecture of the lithosphere under a  sedimentary basin is a great challenge, requiring the integration of different geophysical and geological studies. In this paper, we present the resulting Paraná Basin lithospheric model, obtained from processing and inversion of broadband and long-period magnetotelluric soundings along an E-W profile across the central part of the basin. Our results are complemented by a qualitative joint interpretation of gravimetric data, in order to obtain a more precise geoelectric model of the deep structure of the region.</flowPara></flowRoot>    <g
        id="g3981"
        transform="matrix(1.0055249,0,0,1,-62.890407,-1137.5915)">
@@ -1019,7 +1024,7 @@
        xml:space="preserve"
        id="flowRoot6123"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.50223055,0,0,0.50223055,1116.1273,-2518.4926)"><flowRegion
+       transform="matrix(0.50223055,0,0,0.50223055,161.5331,-2487.5566)"><flowRegion
          id="flowRegion6125"><rect
            id="rect6127"
            width="591.09729"
@@ -1035,23 +1040,23 @@
    id="flowSpan6135">+</flowSpan> Complementary Data</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte03_55_mod_model009.png"
        xlink:href="./Figs/MT/tmte03_55_mod_model009.png"
-       y="1826.9266"
-       x="-434.33096"
-       id="image89444"
-       height="825.35114"
-       width="1771.6536"
+       transform="matrix(0.69999999,0,0,0.69999999,4915.0331,-2802.6196)"
        clip-path="url(#clipPath4339)"
-       transform="matrix(0.69999999,0,0,0.69999999,1688.8583,-1472.3749)" />
+       width="1771.6536"
+       height="825.35114"
+       id="image89444"
+       x="-434.33096"
+       y="1826.9266" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
        xlink:href="./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
-       y="-227.63924"
-       x="4240"
-       id="image89506"
+       width="708.66144"
        height="866.14166"
-       width="708.66144" />
+       id="image89506"
+       x="3099.7903"
+       y="103.81708" />
     <flowRoot
-       transform="translate(3808.0625,-1108.9779)"
+       transform="translate(3876.3125,-713.22788)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013-4"
        xml:space="preserve"><flowRegion
@@ -1062,21 +1067,21 @@
            width="1173.4224"
            id="rect89017-6" /></flowRegion><flowPara
          id="flowPara89019-7"
-         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Egbert, G., and J. R. Booker, 1986, Robust estimation of geomagnetic transfer functions: Geophysical Journal International, 87, 173-194.</flowPara><flowPara
-         style="font-size:40px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Egbert, G., and J. R. Booker, 1986, Robust estimation of geomagnetic transfer functions: Geophysical Journal International, 87, 173-194.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara4067">ꔷ Sá, N. C. de. 2004. O campo de gravidade, o geóide e a estrutura crustal na América do Sul: novas estratégias de representação. Tese (Livre Docência) - Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo, São Paulo. 122 p.</flowPara><flowPara
          id="flowPara89021-9"
-         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Santos, H. B; Ussami, N. 2011. Tensor gradiente gravimétrico da Bacia do Paraná. Dissertação de Mestrado – Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo. 97p.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Santos, H. B; Ussami, N. 2011. Tensor gradiente gravimétrico da Bacia do Paraná. Dissertação de Mestrado – Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo. 97p.</flowPara><flowPara
          id="flowPara89023-0"
-         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Siripunvaraporn, W; Egbert, G. 2000. An efficient data-subspace inversion method for 2-D magnetotelluric data. Geophysics. v. 65, p. 791-803.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Siripunvaraporn, W; Egbert, G. 2000. An efficient data-subspace inversion method for 2-D magnetotelluric data. Geophysics. v. 65, p. 791-803.</flowPara><flowPara
          id="flowPara89027-1"
-         style="font-size:40px;text-align:justify;text-anchor:start">ꔷ Zalán, P.V. et al. Bacia do Paraná. In: Gabaglia, G., and E. Milani, 1990, Origem e evolucão de bacias sedimentares: Petróleo Brasileiro. p. 135-168.</flowPara><flowPara
-         style="font-size:36px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Zalán, P.V. et al. Bacia do Paraná. In: Gabaglia, G., and E. Milani, 1990, Origem e evolucão de bacias sedimentares: Petróleo Brasileiro. p. 135-168.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara4063"> </flowPara><flowPara
-         style="font-size:36px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara4065" /></flowRoot>    <g
        id="g4445"
-       transform="translate(-2170.2202,-1362.3412)">
+       transform="translate(-2101.9702,-966.5912)">
       <g
          id="g4489">
         <g
@@ -1105,7 +1110,7 @@
       </g>
     </g>
     <flowRoot
-       transform="translate(-914.7329,-2749.7269)"
+       transform="translate(-846.4829,-2203.7167)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604728"
        xml:space="preserve"><flowRegion
@@ -1115,9 +1120,9 @@
            height="261.09351"
            width="1173.3267"
            id="rect604732" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara604736">The authors were supported in this research by a fellowship (EBS) from CNPq, (HBS) from CGG-Brazil and INCT and, (IV and MBP) from INPE. Additional support for the authors was provided by the Brazilian agency FAPESP (grant 2009/50493-8). </flowPara></flowRoot>    <flowRoot
-       transform="translate(3802.6808,-2306.1757)"
+       transform="translate(2651.1716,-535.98683)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013"
        xml:space="preserve"><flowRegion
@@ -1128,16 +1133,16 @@
            width="1173.4224"
            id="rect89017" /></flowRegion><flowPara
          id="flowPara89019"
-         style="text-align:justify;text-anchor:start">ꔷ A gravimetric feature almost parallel and near the Paraná River indicates the presence of an anomalous deep body.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ A gravimetric feature almost parallel and near the Paraná River indicates the presence of an anomalous deep body.</flowPara><flowPara
          id="flowPara89021"
-         style="text-align:justify;text-anchor:start">ꔷ  We have presented a 2-D geoelectric model of the deep structure in the Paraná Basin.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ  We have presented a 2-D geoelectric model of the deep structure in the Paraná Basin.</flowPara><flowPara
          id="flowPara89023"
-         style="text-align:justify;text-anchor:start">ꔷ  Presence of a high conductivity band in the upper part, that represents the sedimentary basin.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ  Presence of a high conductivity band in the upper part, that represents the sedimentary basin.</flowPara><flowPara
          id="flowPara89025"
-         style="text-align:justify;text-anchor:start">ꔷ  High resistivity body below the area of the basin.</flowPara><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ  High resistivity body below the area of the basin.</flowPara><flowPara
          id="flowPara89027"
-         style="text-align:justify;text-anchor:start">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <g
-       transform="translate(-678.81917,105.59792)"
+         style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <g
+       transform="translate(-1834.7478,1866.948)"
        id="g4130">
       <g
          id="g4413"
@@ -1169,7 +1174,7 @@
            style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">CONCLUSIONS</flowPara></flowRoot>    </g>
     <g
        id="g4504"
-       transform="translate(-681.5063,-15.067878)">
+       transform="translate(-604.41746,566.29768)">
       <g
          id="g4497">
         <rect
@@ -1197,28 +1202,28 @@
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
        xlink:href="./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
-       y="-227.63924"
-       x="3451.3386"
-       id="image89506-8"
+       width="708.66144"
        height="866.14166"
-       width="708.66144" />
+       id="image89506-8"
+       x="1528.892"
+       y="205.46368" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
        xlink:href="./Figs/MT/tmte03_55_mod.009_rspTETM31-43.png"
-       y="-213.7809"
-       x="2720"
-       id="image89506-4"
+       width="708.66144"
        height="866.14166"
-       width="708.66144" />
+       id="image89506-4"
+       x="125.80189"
+       y="139.77249" />
     <rect
-       y="-251.66084"
-       x="123.83176"
+       y="-1595.1638"
+       x="3204.1658"
        height="98.587456"
        width="1236.1682"
        id="rect5285-3-6-1"
        style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.98929954;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(-998.14752,-1413.9421)"
+       transform="translate(2082.1865,-2757.445)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604720-75-7-7"
        xml:space="preserve"><flowRegion
@@ -1235,23 +1240,23 @@
        xml:space="preserve"
        id="flowRoot4608"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1635.3095,-1206.7206)"><flowRegion
+       transform="translate(1445.0246,-2550.2235)"><flowRegion
          id="flowRegion4610"><rect
            id="rect4612"
            width="1242.4916"
            height="161.36732"
            x="1755.649"
            y="1095.775" /></flowRegion><flowPara
-         style="font-size:40px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara3977">For an anisotropic or a laterally inhomogeneous earth model, the relation between the electric and magnetic fields is given by the impedance tensor:</flowPara><flowPara
-         style="font-size:40px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara3979" /><flowPara
-         style="font-size:40px;text-align:justify;text-anchor:start"
+         style="font-size:32px;text-align:justify;text-anchor:start"
          id="flowPara3981" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4630"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1563.5517,-1344.8912)"><flowRegion
+       transform="translate(1516.7824,-2797.2031)"><flowRegion
          id="flowRegion4632"><rect
            id="rect4634"
            width="1240.6244"
@@ -1259,13 +1264,13 @@
            x="1685.8756"
            y="1578.5314" /></flowRegion><flowPara
          id="flowPara4640"
-         style="font-size:40px;text-align:justify;text-anchor:start">Thus it is possible to calculate the apparent resistivity (ρ<flowSpan
-   style="font-size:65.00091553%;baseline-shift:sub"
+         style="font-size:32px;text-align:justify;text-anchor:start">Thus it is possible to calculate the apparent resistivity (ρ<flowSpan
+   style="font-size:32px;baseline-shift:sub"
    id="flowSpan10133">a</flowSpan>) and phase (ϕ) as</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4136"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-1330.9188,-1047.353)"><flowRegion
+       transform="translate(1749.4153,-2568.5549)"><flowRegion
          id="flowRegion4138"><rect
            id="rect4140"
            width="1235.3423"
@@ -1273,14 +1278,14 @@
            x="1458.4077"
            y="1659.8579" /></flowRegion><flowPara
          id="flowPara4144"
-         style="text-align:justify;text-anchor:start">where μ<flowSpan
-   style="font-size:65.00091553%;baseline-shift:sub"
+         style="font-size:32px;text-align:justify;text-anchor:start">where μ<flowSpan
+   style="font-size:32px;baseline-shift:sub"
    id="flowSpan10131">0</flowSpan> is the magnetic permeability in the free-space and ω is the angular frequency. To calculate the impedance tensor we used a robust algorithm developed by Gary Egbert (Egbert and Booker, 1986).</flowPara><flowPara
          id="flowPara4146"
-         style="text-align:justify;text-anchor:start" /><flowPara
+         style="font-size:32px;text-align:justify;text-anchor:start" /><flowPara
          id="flowPara4148"
-         style="text-align:justify;text-anchor:start" /></flowRoot>    <g
-       transform="matrix(5.591198,0,0,5.591198,-794.84422,-339.46755)"
+         style="font-size:32px;text-align:justify;text-anchor:start" /></flowRoot>    <g
+       transform="matrix(5.591198,0,0,5.591198,2285.4898,-1854.6265)"
        ns0:text="$ \\rho_{a,ij}(\\omega) = \\frac{1}{\\mu_{0}\\omega}|Z_{ij}(\\omega)|^{2}$"
        ns0:preamble=""
        id="g5008">
@@ -1690,7 +1695,7 @@
        id="g8947"
        ns0:preamble=""
        ns0:text="$\\phi_{ij} = \\tan^{-1}\\left(\\frac{\\Im({Z_{ij}})}{\\Re({Z_{ij}})}\\right)$"
-       transform="matrix(5.355949,0,0,5.355949,-704.69342,-190.62075)"
+       transform="matrix(5.355949,0,0,5.355949,2375.6406,-1714.069)"
        style="fill:#00000e;fill-opacity:1">
       <defs
          id="defs8949">
@@ -2149,12 +2154,13 @@
        width="458.2785"
        height="115.62719"
        id="image4060"
-       x="506.81396"
-       y="80.796432"
+       x="3587.1479"
+       y="-1348.6995"
        xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/matrix_eq.png"
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/matrix_eq.png" />
     <g
-       id="g9269">
+       id="g9269"
+       transform="translate(1415.519,-1009.0136)">
       <g
          id="g9173">
         <g
@@ -2207,87 +2213,87 @@
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz0_km.png"
                xlink:href="./Figs/grav/gzz0_km.png"
-               y="-1384.8772"
-               x="2980.4724"
-               id="image4790"
+               width="354.33072"
                height="317.23801"
-               width="354.33072" />
+               id="image4790"
+               x="2980.4724"
+               y="-1384.8772" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz50_km.png"
                xlink:href="./Figs/grav/gzz50_km.png"
-               y="-1384.8772"
-               x="3760"
-               id="image4855"
+               width="354.33072"
                height="317.23801"
-               width="354.33072" />
+               id="image4855"
+               x="3760"
+               y="-1384.8772" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz100_km.png"
                xlink:href="./Figs/grav/gzz100_km.png"
-               y="-1384.8772"
-               x="4539.5273"
-               id="image4920"
-               height="317.23801"
-               width="354.33072"
+               inkscape:transform-center-y="1158.0633"
                inkscape:transform-center-x="1879.7413"
-               inkscape:transform-center-y="1158.0633" />
+               width="354.33072"
+               height="317.23801"
+               id="image4920"
+               x="4539.5273"
+               y="-1384.8772" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile0_km.png"
                xlink:href="./Figs/grav/gzz_profile0_km.png"
-               y="-1028.0601"
-               x="2980.4724"
-               id="image5020"
-               height="279.31851"
-               width="354.33072"
+               inkscape:transform-center-y="-139.65932"
                inkscape:transform-center-x="59.055072"
-               inkscape:transform-center-y="-139.65932" />
+               width="354.33072"
+               height="279.31851"
+               id="image5020"
+               x="2980.4724"
+               y="-1028.0601" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile50_km.png"
                xlink:href="./Figs/grav/gzz_profile50_km.png"
-               y="-1032.6631"
-               x="3760"
-               id="image5085"
+               width="354.33072"
                height="283.92157"
-               width="354.33072" />
+               id="image5085"
+               x="3760"
+               y="-1032.6631" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile100_km.png"
                xlink:href="./Figs/grav/gzz_profile100_km.png"
-               y="-1025.7817"
-               x="4539.5273"
-               id="image5150"
+               width="354.33072"
                height="277.04022"
-               width="354.33072" />
+               id="image5150"
+               x="4539.5273"
+               y="-1025.7817" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz25_km.png"
                xlink:href="./Figs/grav/gzz25_km.png"
-               width="354.33072"
-               height="317.23798"
-               id="image3503"
+               y="-1384.8772"
                x="3370.2363"
-               y="-1384.8772" />
+               id="image3503"
+               height="317.23798"
+               width="354.33072" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz75_km.png"
                xlink:href="./Figs/grav/gzz75_km.png"
-               width="354.33072"
-               height="317.23798"
-               id="image3568"
+               y="-1384.8772"
                x="4149.7637"
-               y="-1384.8772" />
+               id="image3568"
+               height="317.23798"
+               width="354.33072" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile25_km.png"
                xlink:href="./Figs/grav/gzz_profile25_km.png"
-               width="354.33072"
-               height="282.10242"
-               id="image3633"
+               y="-1030.844"
                x="3370.2363"
-               y="-1030.844" />
+               id="image3633"
+               height="282.10242"
+               width="354.33072" />
             <image
                sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile75_km.png"
                xlink:href="./Figs/grav/gzz_profile75_km.png"
-               width="354.33072"
-               height="283.92154"
-               id="image3719"
+               y="-1032.6631"
                x="4149.7637"
-               y="-1032.6631" />
+               id="image3719"
+               height="283.92154"
+               width="354.33072" />
             <g
                id="g5435"
                transform="matrix(0.69436743,0,0,0.69436743,3086.7716,-2363.2901)">
@@ -2557,6 +2563,58 @@
                  style="font-weight:bold">S</flowPara></flowRoot>          </g>
         </g>
       </g>
+    </g>
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tm05B_model014.png"
+       xlink:href="./Figs/MT/tm05B_model014.png"
+       width="1240.1575"
+       height="577.74579"
+       id="image3634"
+       x="51.424595"
+       y="-355.20761" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte06_model019.png"
+       xlink:href="./Figs/MT/tmte06_model019.png"
+       width="1240.1575"
+       height="577.74579"
+       id="image3699"
+       x="1472.0867"
+       y="-358.8176" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tp05_model020.png"
+       xlink:href="./Figs/MT/tp05_model020.png"
+       width="1240.1575"
+       height="577.74579"
+       id="image3764"
+       x="3096.8267"
+       y="-472.65018" />
+    <g
+       id="g3981-9"
+       transform="matrix(1.0055249,0,0,1,-54.909553,1011.5412)">
+      <g
+         transform="matrix(0.98368423,0,0,1,-211.1678,1416.9976)"
+         id="g3889-7">
+        <rect
+           y="-2852.3374"
+           x="334.33899"
+           height="97.374924"
+           width="1721.4561"
+           id="rect5285-3-7"
+           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.67862844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <flowRoot
+           transform="translate(-1206.4467,-4015.2249)"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           id="flowRoot604720-75-9"
+           xml:space="preserve"><flowRegion
+             id="flowRegion604722-3-8"><rect
+               style="text-align:center;text-anchor:middle"
+               y="1159.6835"
+               x="1536.9227"
+               height="89.684692"
+               width="1717.201"
+               id="rect604724-8-5" /></flowRegion><flowPara
+             style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+             id="flowPara604726-1-4">SUMMARY</flowPara></flowRoot>      </g>
     </g>
   </g>
 </svg>
