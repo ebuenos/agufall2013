@@ -1,0 +1,28 @@
+So my catechism for 2D inversion is: 
+1) Model TM only first. Initially with large errors on rho and pha, then gradually reduce errors in pha, keeping errors in rho to 50% to account for static shifts. 
+2) Then introduce TE. Initially with very large errors on rho (100%) and large errors on pha (20%), then gradually reduce those errors to try to get to about the same level as for prior TM (25% or 50% on rho, 5% on pha). 
+3) Then introduce induction vectors, again initially with large errors (0.25), then reduce to about 0.05. 
+NOW you have a model that fits most of your data, and with the statics accounted for by the large error floors on rho. You can now try step 4... 
+4) Now turn on static shifts and reduce rho floors to 10% or even 5%. Have the static shift damping large to begin with (100), as it reduces by a factor of 3 ever 3 iterations. 
+
+My experience is that sometimes step (4) wipes out all of the structure in the model, and puts it into the static shift
+
+rms
+tm = 2.3071
+tmte = 2.48
+tp =  1.9115
+
+
+
+To improve the assurance of or model, we make a new MT inversion using a different procedure.
+We initiate the inversion assuming large errors in the resistivity and phase, after we start to reduce the errors in phase then reduce the errors in the resistivity.
+The idea of this procedure is to gradually introduce the data in the inversion.
+Here we present the 2-D inversion resistivity model for the Transverse Magnetic (TM) mode using REBOCC. The RMS resistivity for this model is 2.47.
+
+
+
+
+
+
+
+
