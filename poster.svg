@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="6377.9526"
-   height="4251.9683"
+   width="4783.4644"
+   height="3188.9763"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -21,85 +21,96 @@
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path8088"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <clipPath
        id="clipPath3676"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3678"
-         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3666"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3668"
-         d="m 3189.2,663.602 0,-243.602 243.6,0 0,243.602 -243.6,0 z" />
+         d="m 3189.2,663.602 0,-243.602 243.6,0 0,243.602 -243.6,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3568"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3570"
-         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3556"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3558"
-         d="m 4203.2,3936 0,-3524.398 199.2,0 0,3524.398 -199.2,0 z" />
+         d="m 4203.2,3936 0,-3524.398 199.2,0 0,3524.398 -199.2,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3342"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3344"
-         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3248"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3250"
-         d="m 1510.4,2608.8 0,-426 706.8,0 0,426 -706.8,0 z" />
+         d="m 1510.4,2608.8 0,-426 706.8,0 0,426 -706.8,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3238"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3240"
-         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z" />
+         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3190"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3192"
-         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z" />
+         d="m 0,2 0,4188 4830,0 L 4830,2 0,2 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3054"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3056"
-         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z" />
+         d="m 530,3936 0,-3523.199 3523.2,0 0,3523.199 -3523.2,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3040"
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3042"
-         d="m 0.800781,2.40234 4829.200019,0 0,4187.59996 -4829.200019,0 0,-4187.59996 z" />
+         d="m 0.800781,2.40234 4829.200019,0 0,4187.59996 -4829.200019,0 0,-4187.59996 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -802,6 +813,17 @@
          x="6450.9971"
          y="-2408.4009" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6908">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.72362852;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect6910"
+         width="433.74091"
+         height="462.39029"
+         x="6892.6299"
+         y="-4016.6335" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -810,19 +832,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35787986"
-     inkscape:cx="4915.9537"
-     inkscape:cy="3184.3965"
+     inkscape:zoom="0.25305928"
+     inkscape:cx="2610.0298"
+     inkscape:cy="1589.7416"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="cm"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false">
@@ -931,11 +953,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3199.6075)">
+     transform="translate(0,2136.6155)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4584"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion4586"><rect
            id="rect4588"
            width="2.2097087"
@@ -953,15 +975,7 @@
            height="81.25"
            x="1646.8751"
            y="1667.5931" /></flowRegion><flowPara
-         id="flowPara4902">Amazon</flowPara></flowRoot>    <image
-       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/FM13-logo2.png"
-       xlink:href="./Figs/FM13-logo2.png"
-       y="-4590.0205"
-       x="140.08575"
-       id="image5511"
-       height="162.94284"
-       width="1333.9219" />
-    <flowRoot
+         id="flowPara4902">Amazon</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3665"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -972,407 +986,361 @@
            height="302.20145"
            x="4453.502"
            y="2248.4851" /></flowRegion><flowPara
-         id="flowPara3671" /></flowRoot>    <g
-       id="g4568">
-      <g
-         transform="translate(-1859.9508,2.6477572)"
-         id="g6480">
-        <path
-           inkscape:connector-curvature="0"
-           id="rect5285-3-6-0"
-           d="m 4325.0157,-2593.7063 c 636.151,0 1272.3018,0 1908.4528,0 0,32.5486 0,65.0972 0,97.6457 -636.151,0 -1272.3018,0 -1908.4528,0 0,-32.5485 0,-65.0971 0,-97.6457 z"
-           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.93303585;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <g
-           id="g6473">
-          <g
-             id="g6467">
-            <flowRoot
-               transform="translate(2933.9783,-3755.1415)"
-               style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               id="flowRoot604720-75-7-5"
-               xml:space="preserve"><flowRegion
-                 id="flowRegion604722-3-6-2"><rect
-                   style="text-align:center;text-anchor:middle"
-                   y="1161.4535"
-                   x="1380.4232"
-                   height="148.34187"
-                   width="1965.5985"
-                   id="rect604724-8-4-7" /></flowRegion><flowPara
-                 style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-                 id="flowPara604726-1-3-8">BOUGUER ANOMALY</flowPara></flowRoot>          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(2285.4331,-2462.5984)"
-         id="g4273">
-        <g
-           id="g4228">
-          <g
-             transform="translate(-2.8346457,-3.7274699e-5)"
-             clip-path="url(#clipPath4062)"
-             id="g3722">
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly0_km.png"
-               xlink:href="./Figs/grav/bouguer_anomaly0_km.png"
-               width="354.33072"
-               height="314.34158"
-               id="image4384"
-               x="177.16536"
-               y="64.790932" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
-               xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
-               width="354.33072"
-               height="314.34158"
-               id="image4465"
-               x="956.69293"
-               y="64.790932" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly100_km.png"
-               xlink:href="./Figs/grav/bouguer_anomaly100_km.png"
-               width="354.33072"
-               height="314.34158"
-               id="image4530"
-               x="1736.2205"
-               y="64.790932" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile0_km.png"
-               xlink:href="./Figs/grav/bouguer_profile0_km.png"
-               width="354.33072"
-               height="274.86234"
-               id="image4595"
-               x="177.16536"
-               y="423.16772" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile50_km.png"
-               xlink:href="./Figs/grav/bouguer_profile50_km.png"
-               width="354.33072"
-               height="279.31851"
-               id="image4660"
-               x="956.69293"
-               y="418.71155" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile100_km.png"
-               xlink:href="./Figs/grav/bouguer_profile100_km.png"
-               width="354.33072"
-               height="279.31851"
-               id="image4725"
-               x="1736.2205"
-               y="418.71158" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly25_km.png"
-               xlink:href="./Figs/grav/bouguer_anomaly25_km.png"
-               y="64.790833"
-               x="566.92914"
-               id="image3190"
-               height="314.34158"
-               width="354.33072" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
-               xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
-               y="64.790833"
-               x="1346.4567"
-               id="image3255"
-               height="314.34158"
-               width="354.33072"
-               inkscape:transform-center-x="1768.0845"
-               inkscape:transform-center-y="1571.5167" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile25_km.png"
-               xlink:href="./Figs/grav/bouguer_profile25_km.png"
-               y="423.16776"
-               x="566.92914"
-               id="image3320"
-               height="274.8623"
-               width="354.33072" />
-            <image
-               sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile75_km.png"
-               xlink:href="./Figs/grav/bouguer_profile75_km.png"
-               y="418.71155"
-               x="1346.4567"
-               id="image3385"
-               height="279.31851"
-               width="354.33072" />
-          </g>
-          <g
-             transform="translate(-7.0866158,0)"
-             id="g4066">
-            <g
-               id="g4016"
-               transform="matrix(0.69436743,0,0,0.69436743,111.44505,33.83016)">
-              <rect
-                 y="-37.469196"
-                 x="258.4375"
-                 height="75"
-                 width="203.125"
-                 id="rect3762-2-7-93"
-                 style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-              <flowRoot
-                 transform="translate(-1040,-3567.0704)"
-                 style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                 id="flowRoot3764-5-04-52"
-                 xml:space="preserve"><flowRegion
-                   id="flowRegion3766-8-6-0"><rect
-                     ry="1.5625"
-                     style="text-align:center;text-anchor:middle;stroke:none"
-                     y="3529.6013"
-                     x="1301.5625"
-                     height="71.875"
-                     width="196.875"
-                     id="rect3768-0-4-6" /></flowRegion><flowPara
-                   style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                   id="flowPara3770-4-00-1">0 km</flowPara></flowRoot>            </g>
-          </g>
-          <g
-             transform="translate(15.286912,22.207911)"
-             id="g4045">
-            <g
-               id="g4024"
-               transform="matrix(0.69436743,0,0,0.69436743,201.08833,11.622249)">
-              <rect
-                 y="-37.469196"
-                 x="658.4375"
-                 height="75"
-                 width="203.125"
-                 id="rect3762-2-7-5-3"
-                 style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-              <flowRoot
-                 transform="translate(-640,-3567.0704)"
-                 style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                 id="flowRoot3764-5-04-5-4"
-                 xml:space="preserve"><flowRegion
-                   id="flowRegion3766-8-6-7-4"><rect
-                     ry="1.5625"
-                     style="text-align:center;text-anchor:middle;stroke:none"
-                     y="3529.6013"
-                     x="1301.5625"
-                     height="71.875"
-                     width="196.875"
-                     id="rect3768-0-4-2-5" /></flowRegion><flowPara
-                   style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                   id="flowPara3770-4-00-7-6">25 km</flowPara></flowRoot>            </g>
-          </g>
-          <g
-             transform="translate(5.0504432,22.208015)"
-             id="g4038">
-            <rect
-               style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.68889999;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               id="rect3762-2-7-7-0"
-               width="141.04338"
-               height="52.077557"
-               x="1058.2861"
-               y="-14.395244" />
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot3764-5-04-1-1"
-               style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               transform="matrix(0.69436743,0,0,0.69436743,156.69326,-2465.2353)"><flowRegion
-                 id="flowRegion3766-8-6-76-2"><rect
-                   id="rect3768-0-4-4-3"
-                   width="196.875"
-                   height="71.875"
-                   x="1301.5625"
-                   y="3529.6013"
-                   style="text-align:center;text-anchor:middle;stroke:none"
-                   ry="1.5625" /></flowRegion><flowPara
-                 id="flowPara3770-4-00-0-5"
-                 style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">50 km</flowPara></flowRoot>          </g>
-          <g
-             transform="translate(13.251967,47.377953)"
-             id="g4031">
-            <rect
-               style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.68889999;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               id="rect3762-2-7-9-2"
-               width="141.04338"
-               height="52.077557"
-               x="1439.8484"
-               y="-39.565182" />
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot3764-5-04-0-0"
-               style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               transform="matrix(0.69436743,0,0,0.69436743,538.25553,-2490.4053)"><flowRegion
-                 id="flowRegion3766-8-6-1-7"><rect
-                   id="rect3768-0-4-3-8"
-                   width="196.875"
-                   height="71.875"
-                   x="1301.5625"
-                   y="3529.6013"
-                   style="text-align:center;text-anchor:middle;stroke:none"
-                   ry="1.5625" /></flowRegion><flowPara
-                 id="flowPara3770-4-00-9-5"
-                 style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">75 km</flowPara></flowRoot>          </g>
-          <g
-             transform="translate(24.57788,22.208015)"
-             id="g4053">
-            <rect
-               style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.68889999;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               id="rect3762-2-7-59-8"
-               width="141.04338"
-               height="52.077557"
-               x="1818.2863"
-               y="-14.395244" />
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot3764-5-04-14-3"
-               style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-               transform="matrix(0.69436743,0,0,0.69436743,916.69329,-2465.2353)"><flowRegion
-                 id="flowRegion3766-8-6-6-5"><rect
-                   id="rect3768-0-4-8-6"
-                   width="196.875"
-                   height="71.875"
-                   x="1301.5625"
-                   y="3529.6013"
-                   style="text-align:center;text-anchor:middle;stroke:none"
-                   ry="1.5625" /></flowRegion><flowPara
-                 id="flowPara3770-4-00-73-4"
-                 style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">100 km</flowPara></flowRoot>          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g4957"
-       transform="matrix(0.90083007,0,0,0.90083007,-260.44309,67.560786)">
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/topo.png"
-         xlink:href="./Figs/Geologia/topo.png"
-         y="-1699.486"
-         x="348.11526"
-         id="image5296"
-         height="1180.014"
-         width="1062.9921" />
-      <flowRoot
-         transform="matrix(1.4886921,0,0,1.4886921,-3415.6812,-460.22824)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-7"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-9"><rect
-             y="-796.02368"
-             x="2932"
-             height="75"
-             width="218"
-             id="rect14289-6-5" /></flowRegion><flowPara
-           style="font-size:28px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-0">São Francisco Craton</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.8496961,0,0,1.8496961,-4738.9491,48.274975)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5"><rect
-             y="-796.02368"
-             x="2932"
-             height="78"
-             width="123"
-             id="rect14289-6" /></flowRegion><flowPara
-           style="font-size:30px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4">Paraná Basin</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.9029507,0,0,1.9029507,-5191.7868,465.90064)"
-         style="font-size:26px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-01"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-4"><rect
-             style="font-size:26px"
-             y="-796.02368"
-             x="2932"
-             height="76"
-             width="210"
-             id="rect14289-6-2" /></flowRegion><flowPara
-           style="font-size:26px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-2">Chaco-Paraná Basin</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.5491821,0,0,1.5491821,-4069.6312,-444.56407)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-2"><rect
-             y="-796.02368"
-             x="2932"
-             height="78"
-             width="123"
-             id="rect14289-6-1" /></flowRegion><flowPara
-           style="font-size:30px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-3">Amazon Craton</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.3654732,0,0,1.3654732,-3379.6915,-356.18525)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-0-7-2"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-5-7-8"><rect
-             y="-796.02368"
-             x="2932"
-             height="43"
-             width="44"
-             id="rect14289-6-4-7-8" /></flowRegion><flowPara
-           style="font-size:30.07984924px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-30-8-2">(3)</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.8672372,0,0,1.8672372,-4652.628,-80.119679)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-0-7"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-5-7"><rect
-             y="-796.02368"
-             x="2932"
-             height="43"
-             width="44"
-             id="rect14289-6-4-7" /></flowRegion><flowPara
-           style="font-size:21.99679184px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-30-8">(2)</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.7394843,0,0,1.7394843,-4161.5807,68.987977)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-0-7-6"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-5-7-7"><rect
-             y="-796.02368"
-             x="2932"
-             height="43"
-             width="44"
-             id="rect14289-6-4-7-3" /></flowRegion><flowPara
-           style="font-size:23.61829567px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-30-8-1">(1)</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.7468406,0,0,1.7468406,-4245.4637,422.07989)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287"><rect
-             y="-796.02368"
-             x="2932"
-             height="42"
-             width="229"
-             id="rect14289" /></flowRegion><flowPara
-           style="font-size:30px"
-           id="flowPara14291">Atlantic Ocean</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.827307,0,0,1.827307,-4570.4022,180.54401)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-0-6"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-5-5"><rect
-             y="-796.02368"
-             x="2932"
-             height="42"
-             width="35"
-             id="rect14289-6-4-8" /></flowRegion><flowPara
-           style="font-size:30px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-30-5">B</flowPara></flowRoot>      <flowRoot
-         transform="matrix(1.59138,0,0,1.59138,-4012.9973,-80.577875)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot14285-9-0-6-7"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14287-5-5-5-5"><rect
-             y="-796.02368"
-             x="2932"
-             height="42"
-             width="35"
-             id="rect14289-6-4-8-9" /></flowRegion><flowPara
-           style="font-size:30px;text-align:center;text-anchor:middle"
-           id="flowPara14291-4-30-5-9">A</flowPara></flowRoot>    </g>
+         id="flowPara3671" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3620"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-3199.6075)"><flowRegion
+         id="flowRegion3622"><rect
+           id="rect3624"
+           width="43.310623"
+           height="41.913509"
+           x="4290.5459"
+           y="1482.8826" /></flowRegion><flowPara
+         id="flowPara3626">ꔷ</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="rect5285-3-6-0"
+       d="m 1848.7986,-1680.1295 c 477.1132,0 954.2262,0 1431.3395,0 0,24.4115 0,48.8229 0,73.2343 -477.1133,0 -954.2263,0 -1431.3395,0 0,-24.4114 0,-48.8228 0,-73.2343 z"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.69977665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74999995,0,0,0.74999995,805.52058,-2551.2058)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-7-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-6-2"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1161.4535"
+           x="1380.4232"
+           height="148.34187"
+           width="1965.5985"
+           id="rect604724-8-4-7" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-3-8">BOUGUER ANOMALY</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly0_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly0_km.png"
+       width="265.74802"
+       height="235.75616"
+       id="image4384"
+       x="1844.8228"
+       y="-1535.1912" />
     <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
+       width="265.74802"
+       height="235.75616"
+       id="image4465"
+       x="2429.4685"
+       y="-1535.1912" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly100_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly100_km.png"
+       width="265.74802"
+       height="235.75616"
+       id="image4530"
+       x="3014.114"
+       y="-1535.1912" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile0_km.png"
+       xlink:href="./Figs/grav/bouguer_profile0_km.png"
+       width="265.74802"
+       height="206.14674"
+       id="image4595"
+       x="1844.8228"
+       y="-1266.4086" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile50_km.png"
+       xlink:href="./Figs/grav/bouguer_profile50_km.png"
+       width="265.74802"
+       height="209.48888"
+       id="image4660"
+       x="2429.4685"
+       y="-1269.7507" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile100_km.png"
+       xlink:href="./Figs/grav/bouguer_profile100_km.png"
+       width="265.74802"
+       height="209.48888"
+       id="image4725"
+       x="3014.114"
+       y="-1269.7507" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly25_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly25_km.png"
+       y="-1535.1913"
+       x="2137.1455"
+       id="image3190"
+       height="235.75616"
+       width="265.74802" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_anomaly50_km.png"
+       xlink:href="./Figs/grav/bouguer_anomaly50_km.png"
+       y="-1535.1913"
+       x="2721.7913"
+       id="image3255"
+       height="235.75616"
+       width="265.74802"
+       inkscape:transform-center-x="1768.0845"
+       inkscape:transform-center-y="1571.5167" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile25_km.png"
+       xlink:href="./Figs/grav/bouguer_profile25_km.png"
+       y="-1266.4086"
+       x="2137.1455"
+       id="image3320"
+       height="206.14671"
+       width="265.74802" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/bouguer_profile75_km.png"
+       xlink:href="./Figs/grav/bouguer_profile75_km.png"
+       y="-1269.7507"
+       x="2721.7913"
+       id="image3385"
+       height="209.48888"
+       width="265.74802" />
+    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-93"
+       width="105.78253"
+       height="39.058167"
+       x="1926.9315"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-52"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,1250.737,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-0"><rect
+           id="rect3768-0-4-6"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-1"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">0 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-5-3"
+       width="105.78253"
+       height="39.058167"
+       x="2219.2542"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-5-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,1543.0597,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-7-4"><rect
+           id="rect3768-0-4-2-5"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-7-6"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">25 km</flowPara></flowRoot>    <rect
+       style="fill:#6295a6;stroke:#6295a6;stroke-width:0.51667494000000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect3762-2-7-7-0"
+       width="105.78253"
+       height="39.058167"
+       x="2511.5769"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-1-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,1835.3825,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-76-2"><rect
+           id="rect3768-0-4-4-3"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none;fill:#ffffff;fill-opacity:1"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-0-5"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;fill-opacity:1">50 km</flowPara></flowRoot>    <rect
+       style="fill:#6295a6;fill-opacity:1;stroke:#6295a6;stroke-width:0.51667494000000003;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-9-2"
+       width="105.78253"
+       height="39.058167"
+       x="2803.8999"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-0-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,2127.7053,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-1-7"><rect
+           id="rect3768-0-4-3-8"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-9-5"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">75 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-59-8"
+       width="105.78253"
+       height="39.058167"
+       x="3096.2229"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-14-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,2420.0281,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-6-5"><rect
+           id="rect3768-0-4-8-6"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-73-4"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">100 km</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/topo.png"
+       xlink:href="./Figs/Geologia/topo.png"
+       width="718.1814"
+       height="797.24402"
+       id="image5296"
+       x="39.862209"
+       y="-834.3761" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0057939,0,0,1.0057939,-2503.0434,2.8943013)"><flowRegion
+         id="flowRegion14287-5-9"><rect
+           id="rect14289-6-5"
+           width="218"
+           height="75"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-0"
+         style="font-size:28px;text-align:center;text-anchor:middle">São Francisco Craton</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.2496963,0,0,1.2496963,-3397.073,346.45052)"><flowRegion
+         id="flowRegion14287-5"><rect
+           id="rect14289-6"
+           width="123"
+           height="78"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4"
+         style="font-size:30px;text-align:center;text-anchor:middle">Paraná Basin</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-01"
+       style="font-size:26px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.2856763,0,0,1.2856763,-3703.0203,628.60782)"><flowRegion
+         id="flowRegion14287-5-4"><rect
+           id="rect14289-6-2"
+           width="210"
+           height="76"
+           x="2932"
+           y="-796.02368"
+           style="font-size:26px" /></flowRegion><flowPara
+         id="flowPara14291-4-2"
+         style="font-size:26px;text-align:center;text-anchor:middle">Chaco-Paraná Basin</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0466623,0,0,1.0466623,-2944.8667,13.477367)"><flowRegion
+         id="flowRegion14287-5-2"><rect
+           id="rect14289-6-1"
+           width="123"
+           height="78"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-3"
+         style="font-size:30px;text-align:center;text-anchor:middle">Amazon Craton</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-0-7-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.92254443,0,0,0.92254443,-2478.728,73.188087)"><flowRegion
+         id="flowRegion14287-5-5-7-8"><rect
+           id="rect14289-6-4-7-8"
+           width="44"
+           height="43"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-30-8-2"
+         style="font-size:30.07984924px;text-align:center;text-anchor:middle">(3)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-0-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.2615475,0,0,1.2615475,-3338.7525,259.7042)"><flowRegion
+         id="flowRegion14287-5-5-7"><rect
+           id="rect14289-6-4-7"
+           width="44"
+           height="43"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-30-8"
+         style="font-size:21.99679184px;text-align:center;text-anchor:middle">(2)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-0-7-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1752347,0,0,1.1752347,-3006.9899,360.44469)"><flowRegion
+         id="flowRegion14287-5-5-7-7"><rect
+           id="rect14289-6-4-7-3"
+           width="44"
+           height="43"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-30-8-1"
+         style="font-size:23.61829567px;text-align:center;text-anchor:middle">(1)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.1802048,0,0,1.1802048,-3063.6631,599.00153)"><flowRegion
+         id="flowRegion14287"><rect
+           id="rect14289"
+           width="229"
+           height="42"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291"
+         style="font-size:30px">Atlantic Ocean</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-0-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.2345697,0,0,1.2345697,-3283.1989,435.81446)"><flowRegion
+         id="flowRegion14287-5-5-5"><rect
+           id="rect14289-6-4-8"
+           width="35"
+           height="42"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-30-5"
+         style="font-size:30px;text-align:center;text-anchor:middle">B</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14285-9-0-6-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0751721,0,0,1.0751721,-2906.6036,259.39463)"><flowRegion
+         id="flowRegion14287-5-5-5-5"><rect
+           id="rect14289-6-4-8-9"
+           width="35"
+           height="42"
+           x="2932"
+           y="-796.02368" /></flowRegion><flowPara
+         id="flowPara14291-4-30-5-9"
+         style="font-size:30px;text-align:center;text-anchor:middle">A</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Geologia/geologia.png"
        xlink:href="./Figs/Geologia/geologia.png"
-       width="1113.1943"
-       height="708.66144"
+       width="834.89569"
+       height="531.49603"
        id="image5342"
-       x="1062.9921"
-       y="-1463.3873" />
+       x="797.24402"
+       y="-834.37616" />
     <flowRoot
-       transform="matrix(0.72098503,0,0,0.72098503,104.20253,-239.70875)"
+       transform="matrix(0.54073874,0,0,0.54073874,78.151895,83.382719)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8508"
        xml:space="preserve"><flowRegion
@@ -1384,7 +1352,7 @@
            id="rect8512" /></flowRegion><flowPara
          style="font-size:44.38372421px;text-align:justify;text-anchor:start"
          id="flowPara8514">In the left, the purple contours and numbers indicate some of the main tectonic provinces within South American lithospheric plate, being (1) Mantiqueira Province; (2) Tocantins Province; and (3) Pantanal Basin. The red line represents the MT profile. The figure above represents the geological map of the central region of the study area.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68666854,0,0,0.68666854,1806.9164,-232.63104)"
+       transform="matrix(0.51500137,0,0,0.51500137,1355.1872,88.691002)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot8054"
        xml:space="preserve"
@@ -1397,41 +1365,35 @@
            width="1155.8536"
            id="rect8058" /></flowRegion><flowPara
          style="font-size:46.60181427px;text-align:justify;text-anchor:start"
-         id="flowPara8076">The Paraná Basin is a large sedimentary basin in central-eastern South America that extends through Brazil, Paraguay, Uruguay and Argentina. Evolved completely over the South American continental crust, this Paleozoic basin is filled with sedimentary and volcanic rocks deposited from the Silurian to the Cretaceous, when a significant basaltic effusion covered almost the entire area of the basin. A series of superposed sedimentary and volcanic rock layers were laid down under the influence of different tectonic settings, probably originated from distant collisional dynamics of continental boards that led to the amalgamation of Gondwanaland (Zalán et. al., 1990). In this work we used MT profiles previously collected in the states of Paraná and Mato Grosso do Sul. The MT data were collected in according to an east-west profile (E - W), in the central region of the Paraná Basin.</flowPara></flowRoot>    <g
-       id="g5208">
-      <g
-         id="g5201">
-        <rect
-           y="-1597.7111"
-           x="38.472672"
-           height="95.851151"
-           width="2952.5823"
-           id="rect5285-3-6-5"
-           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:6.07920313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <flowRoot
-           transform="matrix(1.0224171,0,0,1.3246169,-1386.8021,-3146.6685)"
-           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           id="flowRoot604720-75-7-8"
-           xml:space="preserve"><flowRegion
-             id="flowRegion604722-3-6-4"><rect
-               style="text-align:center;text-anchor:middle"
-               y="1164.9315"
-               x="1404.3315"
-               height="91.506348"
-               width="2880.4995"
-               id="rect604724-8-4-2" /></flowRegion><flowPara
-             style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-             id="flowPara604726-1-3-7">STUDY REGION</flowPara></flowRoot>      </g>
-    </g>
-    <rect
-       y="-3160.8088"
-       x="38.798859"
-       height="524.76447"
-       width="6300.355"
-       id="rect42376-9"
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:6.7315774;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         id="flowPara8076">The Paraná Basin is a large sedimentary basin in central-eastern South America that extends through Brazil, Paraguay, Uruguay and Argentina. Evolved completely over the South American continental crust, this Paleozoic basin is filled with sedimentary and volcanic rocks deposited from the Silurian to the Cretaceous, when a significant basaltic effusion covered almost the entire area of the basin. A series of superposed sedimentary and volcanic rock layers were laid down under the influence of different tectonic settings, probably originated from distant collisional dynamics of continental boards that led to the amalgamation of Gondwanaland (Zalán et. al., 1990). In this work we used MT profiles previously collected in the states of Paraná and Mato Grosso do Sul. The MT data were collected in according to an east-west profile (E - W), in the central region of the Paraná Basin.</flowPara></flowRoot>    <rect
+       y="-935.11896"
+       x="28.854504"
+       height="71.888359"
+       width="2214.4365"
+       id="rect5285-3-6-5"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:4.55940199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="matrix(1.1707774,0,0,1.1748245,110.76426,-1950.7487)"
+       transform="matrix(0.76681277,0,0,0.99346261,-1040.1015,-2096.8369)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-7-8"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-6-4"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1164.9315"
+           x="1404.3315"
+           height="91.506348"
+           width="2880.4995"
+           id="rect604724-8-4-2" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-3-7">STUDY REGION</flowPara></flowRoot>    <rect
+       y="-2107.4421"
+       x="29.099144"
+       height="393.57333"
+       width="4725.2661"
+       id="rect42376-9"
+       style="fill:#6295a6;fill-opacity:1;stroke:#6295a6;stroke-width:5.04868269;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.87808299,0,0,0.88111832,83.073192,-1199.8972)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Sans"
        id="flowRoot7926-6"
        xml:space="preserve"><flowRegion
@@ -1452,7 +1414,7 @@
    style="font-size:46.04368591px;text-align:center;text-anchor:middle;baseline-shift:super;fill:#ffffff;stroke:none">(3)</flowSpan> &amp; MARCELO B. PÁDUA<flowSpan
    id="flowSpan9045-0"
    style="font-size:46.04368591px;text-align:center;text-anchor:middle;baseline-shift:super;fill:#ffffff;stroke:none">(3)</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="translate(200.30638,-2297.2582)"
+       transform="matrix(0.74999995,0,0,0.74999995,150.22978,-1459.7793)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot9017-4"
        xml:space="preserve"><flowRegion
@@ -1466,7 +1428,7 @@
          id="flowPara9031-2">¹ Institute of Physics, University of São Paulo (USP); ² Department of Petroleum Engineering, University of Campinas (UNICAMP)</flowPara><flowPara
          id="flowPara5283"
          style="text-align:center;text-anchor:middle;fill:#ffffff">³ Space Geophysics Division, National Institute for Space Research (INPE)</flowPara></flowRoot>    <flowRoot
-       transform="translate(576.7671,-1567.3431)"
+       transform="matrix(0.74999995,0,0,0.74999995,432.5753,-912.34298)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot5077"
        xml:space="preserve"><flowRegion
@@ -1482,7 +1444,7 @@
        xml:space="preserve"
        id="flowRoot5514"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.7555414,0,0,1.7555414,-2761.6394,2283.8359)"><flowRegion
+       transform="matrix(1.316656,0,0,1.316656,-2071.2294,1976.0411)"><flowRegion
          id="flowRegion5516"><rect
            id="rect5518"
            width="1737.5001"
@@ -1497,127 +1459,112 @@
          style="font-size:50px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Sans Bold" /></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/2013_FMbanner.png"
        xlink:href="./Figs/2013_FMbanner.png"
-       y="-3146.9453"
-       x="44.29134"
+       style="fill:#6295a6;fill-opacity:1"
+       y="-2097.0447"
+       x="40.718506"
        id="image6051"
-       height="248.51859"
-       width="1422.9464" />
-    <g
-       id="g5361">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot8860"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="matrix(0.9967215,0,0,0.99156447,-151.1862,-1498.4391)"><flowRegion
-           id="flowRegion8862"><rect
-             id="rect8864"
-             width="857.79437"
-             height="739.66705"
-             x="203.64676"
-             y="-968.81152" /></flowRegion><flowPara
-           id="flowPara8880"
-           style="font-size:32.18863678px;text-align:justify;text-anchor:start;fill:#000000">In the past years, substantial effort has been directed to improve the magnetotelluric (MT) inversion algorithms. Many different techniques were developed to estimate 2-D/3-D geoelectric models of the Earth. However, to evaluate the deep structural architecture of the lithosphere under a  sedimentary basin is a great challenge, requiring the integration of different geophysical and geological studies. In this work, we present the resulting Paraná Basin lithospheric model, obtained from processing and inversion of broadband and long-period magnetotelluric soundings along an E-W profile across the central part of the basin. Our results are complemented by a qualitative joint interpretation of gravimetric data, in order to obtain a more precise geoelectric model of the deep structure of the region.</flowPara></flowRoot>      <g
-         id="g5303">
-        <g
-           id="g5296">
-          <rect
-             style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.47103953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="rect5285-3"
-             width="900.07227"
-             height="102.50561"
-             x="37.168591"
-             y="-2595.1875" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot604720-75"
-             style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-             transform="matrix(0.98911899,0,0,1,-1851.3492,-3753.5351)"><flowRegion
-               id="flowRegion604722-3"><rect
-                 id="rect604724-8"
-                 width="897.34259"
-                 height="100.62219"
-                 x="1923.9464"
-                 y="1158.121"
-                 style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-               id="flowPara604726-1"
-               style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">SUMMARY</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
-       id="g3693">
-      <flowRoot
-         transform="matrix(1.0033677,0,0,1.0033677,-915.57365,-3364.4914)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot4317"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4319"><rect
-             y="898.35132"
-             x="2540.625"
-             height="764.99683"
-             width="770.39001"
-             id="rect4321" /></flowRegion><flowPara
-           style="font-size:32px;text-align:justify;text-anchor:start"
-           id="flowPara4323">The great development in collecting gravity and topographic data in the last three decades enabled the representation of the gravity field of a large segment of the South American (SAM) plate. High resolution (5' x 5') digital gravity models in the region defined by 25N – 65S and 95W – 20W integrating conventional land surveys and satellite missions derived gravity were computed. The used methodology consists in combining global geopotential models with gravity and topographic data for the representation of the gravity field. For each set of data, the processing was carried out in three steps: 1) standardization, evaluation and ressampling of the basic data; 2) data gathering by merging different files; and 3) computation of digital models (Sá, 2004). </flowPara></flowRoot>      <rect
-         style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.29678631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5285-3-6"
-         width="1413.026"
-         height="100.05602"
-         x="994.27435"
-         y="-2593.1506" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot604720-75-7"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="translate(-552.79909,-3753.8096)"><flowRegion
-           id="flowRegion604722-3-6"><rect
-             ry="0"
-             id="rect604724-8-4"
-             width="1415.2131"
-             height="91.454834"
-             x="1538.7859"
-             y="1160.7883"
-             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara604726-1-3"
-           style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">GRAVITY FIELD</flowPara></flowRoot>      <g
-         transform="matrix(0.86991747,0,0,0.86991747,164.49129,-315.59312)"
-         id="g4301">
-        <image
-           sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Dados4.png"
-           xlink:href="./Figs/Dados4.png"
-           width="588"
-           height="722"
-           id="image5215"
-           x="1948.8188"
-           y="-2433.4187"
-           clip-path="url(#clipPath6119)"
-           transform="matrix(1.0846858,0,0,1.0846858,-1121.7301,168.83655)" />
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot6123"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="matrix(0.49011839,0,0,0.49011839,37.199299,-2481.635)"><flowRegion
-             id="flowRegion6125"><rect
-               id="rect6127"
-               width="1168.5212"
-               height="59.276894"
-               x="2041.7709"
-               y="1492.042" /></flowRegion><flowPara
-             id="flowPara6133">+ Observed Data <flowSpan
+       height="186.38893"
+       width="1067.2097" />
+    <flowRoot
+       transform="matrix(0.74754108,0,0,0.7436733,-113.38964,-860.66498)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot8860"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8862"><rect
+           y="-968.81152"
+           x="203.64676"
+           height="739.66705"
+           width="857.79437"
+           id="rect8864" /></flowRegion><flowPara
+         style="font-size:32.18863678px;text-align:justify;text-anchor:start;fill:#000000"
+         id="flowPara8880">In the past years, substantial effort has been directed to improve the magnetotelluric (MT) inversion algorithms. Many different techniques were developed to estimate 2-D/3-D geoelectric models of the Earth. However, to evaluate the deep structural architecture of the lithosphere under a  sedimentary basin is a great challenge, requiring the integration of different geophysical and geological studies. In this work, we present the resulting Paraná Basin lithospheric model, obtained from processing and inversion of broadband and long-period magnetotelluric soundings along an E-W profile across the central part of the basin. Our results are complemented by a qualitative joint interpretation of gravimetric data, in order to obtain a more precise geoelectric model of the deep structure of the region.</flowPara></flowRoot>    <rect
+       y="-1683.2262"
+       x="27.876444"
+       height="76.879204"
+       width="675.05414"
+       id="rect5285-3"
+       style="fill:#5995a6;fill-opacity:1;stroke:#6295a6;stroke-width:2.60327959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74183919,0,0,0.74999995,-1388.5118,-2551.9869)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1158.121"
+           x="1923.9464"
+           height="100.62219"
+           width="897.34259"
+           id="rect604724-8" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1">SUMMARY</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4317"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.75252572,0,0,0.75252572,-686.68019,-2260.2041)"><flowRegion
+         id="flowRegion4319"><rect
+           id="rect4321"
+           width="770.39001"
+           height="764.99683"
+           x="2540.625"
+           y="898.35132" /></flowRegion><flowPara
+         id="flowPara4323"
+         style="font-size:32px;text-align:justify;text-anchor:start">The great development in collecting gravity and topographic data in the last three decades enabled the representation of the gravity field of a large segment of the South American (SAM) plate. High resolution (5' x 5') digital gravity models in the region defined by 25N – 65S and 95W – 20W integrating conventional land surveys and satellite missions derived gravity were computed. The used methodology consists in combining global geopotential models with gravity and topographic data for the representation of the gravity field. For each set of data, the processing was carried out in three steps: 1) standardization, evaluation and ressampling of the basic data; 2) data gathering by merging different files; and 3) computation of digital models (Sá, 2004). </flowPara></flowRoot>    <rect
+       y="-1681.6986"
+       x="745.70569"
+       height="75.042015"
+       width="1059.7694"
+       id="rect5285-3-6"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.22258949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74999995,0,0,0.74999995,-414.59929,-2552.1927)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-7"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-6"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1160.7883"
+           x="1538.7859"
+           height="91.454834"
+           width="1415.2131"
+           id="rect604724-8-4"
+           ry="0" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-3">GRAVITY FIELD</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/Dados4.png"
+       xlink:href="./Figs/Dados4.png"
+       width="588"
+       height="722"
+       id="image5215"
+       x="1948.8188"
+       y="-2433.4187"
+       clip-path="url(#clipPath6119)"
+       transform="matrix(0.7076903,0,0,0.7076903,-608.49095,136.62483)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6123"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.31977189,0,0,0.31977189,147.6387,-1592.6437)"><flowRegion
+         id="flowRegion6125"><rect
+           id="rect6127"
+           width="1168.5212"
+           height="59.276894"
+           x="2041.7709"
+           y="1492.042" /></flowRegion><flowPara
+         id="flowPara6133">+ Observed Data <flowSpan
    style="fill:#0000ff"
    id="flowSpan6145">+</flowSpan> Oceanic Data <flowSpan
    style="fill:#de8787"
-   id="flowSpan6135">+</flowSpan> Complementary Data</flowPara></flowRoot>      </g>
-    </g>
-    <image
+   id="flowSpan6135">+</flowSpan> Complementary Data</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/SBGF/tmte03_55_mod.009_rspTETM31-43.png"
        xlink:href="./Figs/MT/SBGF/tmte03_55_mod.009_rspTETM31-43.png"
-       width="708.66144"
-       height="866.14166"
+       width="531.49603"
+       height="649.6062"
        id="image89506"
-       x="5596.8672"
-       y="-1478.8569" />
+       x="4197.6499"
+       y="-845.97833" />
     <flowRoot
-       transform="translate(3862.3125,-661.22788)"
+       transform="matrix(0.74999995,0,0,0.74999995,2896.7342,-232.75661)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013-4"
        xml:space="preserve"><flowRegion
@@ -1630,7 +1577,7 @@
          id="flowPara89019-7"
          style="font-size:28px;text-align:justify;text-anchor:start">ꔷ Egbert, G., and J. R. Booker, 1986. Robust estimation of geomagnetic transfer functions. Geophysical Journal International, 87, 173-194.</flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
-         id="flowPara3714">ꔷ Mariani, P., Braitenberg, C. Ussami, N., 2013.Explaining the thick crust in Paraná basin, Brazil, with satellite GOCE gravity observations. Journal of South American Earth Sciences, 45,209-223</flowPara><flowPara
+         id="flowPara3714">ꔷ Mariani, P., Braitenberg, C. Ussami, N., 2013. Explaining the thick crust in Paraná basin, Brazil, with satellite GOCE gravity observations. Journal of South American Earth Sciences, 45,209-223.</flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara4067">ꔷ Sá, N. C. de. 2004. O campo de gravidade, o geóide e a estrutura crustal na América do Sul: novas estratégias de representação. Tese (Livre Docência) - Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo, São Paulo. 122 p.</flowPara><flowPara
          id="flowPara89021-9"
@@ -1643,27 +1590,27 @@
          id="flowPara4063"> </flowPara><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara4065" /></flowRoot>    <rect
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.91466498;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:2.93599844;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5285-8-2"
-       width="1194.118"
-       height="97.333603"
-       x="5144.6611"
-       y="298.11774" />
+       width="895.5885"
+       height="73.000198"
+       x="3858.4956"
+       y="486.75256" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot604720-7-9-4"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.0244904,0,0,0.99960734,3570.1953,-877.64297)"><flowRegion
+       transform="matrix(0.76836775,0,0,0.74970546,2677.6463,-395.06791)"><flowRegion
          id="flowRegion604722-62-2-2"><rect
            id="rect604724-17-2-6"
-           width="1162.5414"
-           height="91.583374"
+           width="1167.9962"
+           height="94.378708"
            x="1535.454"
            y="1176.4647"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara604726-5-5-6"
          style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">REFERENCES</flowPara></flowRoot>    <flowRoot
-       transform="translate(-846.4829,-2141.7167)"
+       transform="matrix(0.74999995,0,0,0.74999995,-634.86213,-1343.1231)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604728"
        xml:space="preserve"><flowRegion
@@ -1675,7 +1622,7 @@
            id="rect604732" /></flowRegion><flowPara
          style="font-size:28px;text-align:justify;text-anchor:start"
          id="flowPara604736">The authors were supported in this research by a fellowship (EBS) from CNPq, (HBS) from CGG-Brazil and INCT-GP and, (IV and MBP) from INPE. Additional support for the authors was provided by the Brazilian agency FAPESP (grant 2009/50493-8). </flowPara></flowRoot>    <flowRoot
-       transform="translate(3857.2048,-1516.614)"
+       transform="matrix(0.74999995,0,0,0.74999995,2892.9034,-874.29615)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot89013"
        xml:space="preserve"><flowRegion
@@ -1695,14 +1642,14 @@
          id="flowPara3706">ꔷ Presence of a high conductivity body near the area of the gravimetric feature.</flowPara><flowPara
          id="flowPara89027"
          style="font-size:32px;text-align:justify;text-anchor:start">ꔷ Our model may help to understand the geological structure of the Paraná Basin.</flowPara></flowRoot>    <rect
-       y="-542.7995"
-       x="5145.9907"
-       height="97.371834"
-       width="1193.2458"
+       y="-143.93533"
+       x="3859.4927"
+       height="73.02887"
+       width="894.93433"
        id="rect5285-6"
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.91400409;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:2.93550277;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(3602.0717,-1721.5793)"
+       transform="matrix(0.74999995,0,0,0.74999995,2701.5536,-1028.0201)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604720-0-6"
        xml:space="preserve"><flowRegion
@@ -1710,39 +1657,39 @@
            style="text-align:center;text-anchor:middle"
            y="1175.6835"
            x="1540.9227"
-           height="103.60715"
-           width="1168.621"
+           height="102.21006"
+           width="1197.9604"
            id="rect604724-3-7" /></flowRegion><flowPara
          style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
          id="flowPara604726-66-0">CONCLUSIONS</flowPara></flowRoot>    <rect
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.92018366;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:2.94013762;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5285-8"
-       width="1195.5974"
-       height="97.487419"
-       x="5143.3589"
-       y="19.104378" />
+       width="896.698"
+       height="73.115562"
+       x="3857.5188"
+       y="277.49255" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot604720-7"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.0038898,0,0,0.99992438,3624.7965,-1151.6349)"><flowRegion
+       transform="matrix(0.7529173,0,0,0.74994324,2705.0972,-600.56185)"><flowRegion
          id="flowRegion604722-62"><rect
            id="rect604724-17"
-           width="1170.7584"
-           height="90.210327"
-           x="1540.9227"
+           width="1195.8091"
+           height="91.607544"
+           x="1529.7891"
            y="1175.6835"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara604726-5"
          style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">ACKNOWLEDGEMENTS</flowPara></flowRoot>    <rect
-       y="-1599.4592"
-       x="3049.1819"
-       height="98.701073"
-       width="1165.4156"
+       y="-936.43005"
+       x="2286.8862"
+       height="74.025803"
+       width="874.06171"
        id="rect5285-3-6-1"
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:3.8756845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:2.90676308;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(1929.1321,-2758.8134)"
+       transform="matrix(0.74999995,0,0,0.74999995,1446.849,-1805.9456)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604720-75-7-7"
        xml:space="preserve"><flowRegion
@@ -1759,7 +1706,7 @@
        xml:space="preserve"
        id="flowRoot4608"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1288.6816,-2576.74)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,966.51114,-1669.3906)"><flowRegion
          id="flowRegion4610"><rect
            id="rect4612"
            width="1175.4299"
@@ -1775,7 +1722,7 @@
        xml:space="preserve"
        id="flowRoot4630"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1361.4628,-2766.14)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,1021.097,-1811.4406)"><flowRegion
          id="flowRegion4632"><rect
            id="rect4634"
            width="1167.9742"
@@ -1789,7 +1736,7 @@
        xml:space="preserve"
        id="flowRoot4136"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1587.4941,-2426.8226)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,1190.6205,-1556.9526)"><flowRegion
          id="flowRegion4138"><rect
            id="rect4140"
            width="1172.4719"
@@ -1803,519 +1750,431 @@
          id="flowPara4146"
          style="font-size:32px;text-align:justify;text-anchor:start" /><flowPara
          id="flowPara4148"
-         style="font-size:32px;text-align:justify;text-anchor:start" /></flowRoot>    <g
-       id="textext-c3c482c1-16"
-       transform="matrix(5.591198,0,0,5.591198,2132.9458,-1783.7603)">
-      <g
-         id="g5064"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5066"
-           y="134.765"
-           x="223.43201"
-           xlink:href="#textext-c3c482c1-0"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5068"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5070"
-           y="136.259"
-           x="228.58299"
-           xlink:href="#textext-c3c482c1-3"
-           width="6980.3149"
-           height="3188.9763" />
-        <use
-           id="use5072"
-           y="136.259"
-           x="232.90466"
-           xlink:href="#textext-c3c482c1-4"
-           width="6980.3149"
-           height="3188.9763" />
-        <use
-           id="use5074"
-           y="136.259"
-           x="235.27087"
-           xlink:href="#textext-c3c482c1-5"
-           width="6980.3149"
-           height="3188.9763" />
-        <use
-           id="use5076"
-           y="136.259"
-           x="238.08969"
-           xlink:href="#textext-c3c482c1-6"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5078"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5080"
-           y="134.765"
-           x="242.287"
-           xlink:href="#textext-c3c482c1-9"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5082"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5084"
-           y="134.765"
-           x="246.161"
-           xlink:href="#textext-c3c482c1-1"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5086"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5088"
-           y="134.765"
-           x="252.72"
-           xlink:href="#textext-c3c482c1-10"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5090"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5092"
-           y="134.765"
-           x="259.36404"
-           xlink:href="#textext-c3c482c1-11"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5094"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5096"
-           y="130.842"
-           x="276.08899"
-           xlink:href="#textext-c3c482c1-12"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <path
-         id="path5098"
-         transform="matrix(1,0,0,-1,271.073,132.274)"
-         d="m 0.427,-0.226 14,0"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g5100"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5102"
-           y="138.2"
-           x="271.073"
-           xlink:href="#textext-c3c482c1-7"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5104"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5106"
-           y="139.196"
-           x="275.918"
-           xlink:href="#textext-c3c482c1-14"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5108"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5110"
-           y="138.2"
-           x="279.806"
-           xlink:href="#textext-c3c482c1-8"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5112"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5114"
-           y="134.765"
-           x="286.271"
-           xlink:href="#textext-c3c482c1-15"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5116"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5118"
-           y="134.765"
-           x="289.03799"
-           xlink:href="#textext-c3c482c1-2"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5120"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5122"
-           y="136.259"
-           x="295.83899"
-           xlink:href="#textext-c3c482c1-5"
-           width="6980.3149"
-           height="3188.9763" />
-        <use
-           id="use5124"
-           y="136.259"
-           x="298.65781"
-           xlink:href="#textext-c3c482c1-6"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5126"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5128"
-           y="134.765"
-           x="302.85501"
-           xlink:href="#textext-c3c482c1-9"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5130"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5132"
-           y="134.765"
-           x="306.73001"
-           xlink:href="#textext-c3c482c1-1"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5134"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5136"
-           y="134.765"
-           x="313.28799"
-           xlink:href="#textext-c3c482c1-10"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5138"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5140"
-           y="134.765"
-           x="317.16299"
-           xlink:href="#textext-c3c482c1-15"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-      <g
-         id="g5142"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use5144"
-           y="131.149"
-           x="319.92999"
-           xlink:href="#textext-c3c482c1-13"
-           width="6980.3149"
-           height="3188.9763" />
-      </g>
-    </g>
-    <g
+         style="font-size:32px;text-align:justify;text-anchor:start" /></flowRoot>    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5066"
+       y="134.765"
+       x="223.43201"
+       xlink:href="#textext-c3c482c1-0"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5070"
+       y="136.259"
+       x="228.58299"
+       xlink:href="#textext-c3c482c1-3"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5072"
+       y="136.259"
+       x="232.90466"
+       xlink:href="#textext-c3c482c1-4"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5074"
+       y="136.259"
+       x="235.27087"
+       xlink:href="#textext-c3c482c1-5"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5076"
+       y="136.259"
+       x="238.08969"
+       xlink:href="#textext-c3c482c1-6"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5080"
+       y="134.765"
+       x="242.287"
+       xlink:href="#textext-c3c482c1-9"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5084"
+       y="134.765"
+       x="246.161"
+       xlink:href="#textext-c3c482c1-1"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5088"
+       y="134.765"
+       x="252.72"
+       xlink:href="#textext-c3c482c1-10"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5092"
+       y="134.765"
+       x="259.36404"
+       xlink:href="#textext-c3c482c1-11"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5096"
+       y="130.842"
+       x="276.08899"
+       xlink:href="#textext-c3c482c1-12"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:4.193398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 2738.2168,-519.03064 58.7076,0"
+       id="path5098" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5102"
+       y="138.2"
+       x="271.073"
+       xlink:href="#textext-c3c482c1-7"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5106"
+       y="139.196"
+       x="275.918"
+       xlink:href="#textext-c3c482c1-14"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5110"
+       y="138.2"
+       x="279.806"
+       xlink:href="#textext-c3c482c1-8"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5114"
+       y="134.765"
+       x="286.271"
+       xlink:href="#textext-c3c482c1-15"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5118"
+       y="134.765"
+       x="289.03799"
+       xlink:href="#textext-c3c482c1-2"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5122"
+       y="136.259"
+       x="295.83899"
+       xlink:href="#textext-c3c482c1-5"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5124"
+       y="136.259"
+       x="298.65781"
+       xlink:href="#textext-c3c482c1-6"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5128"
+       y="134.765"
+       x="302.85501"
+       xlink:href="#textext-c3c482c1-9"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5132"
+       y="134.765"
+       x="306.73001"
+       xlink:href="#textext-c3c482c1-1"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5136"
+       y="134.765"
+       x="313.28799"
+       xlink:href="#textext-c3c482c1-10"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5140"
+       y="134.765"
+       x="317.16299"
+       xlink:href="#textext-c3c482c1-15"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
+       style="fill:#000000;fill-opacity:1"
+       id="use5144"
+       y="131.149"
+       x="319.92999"
+       xlink:href="#textext-c3c482c1-13"
+       width="6980.3149"
+       height="3188.9763"
+       transform="matrix(4.1933982,0,0,4.1933982,1599.7092,-1074.6559)" />
+    <use
        style="fill:#00000e;fill-opacity:1"
-       id="textext-0b2e032b-18"
-       transform="matrix(5.355949,0,0,5.355949,2220.0066,-1590.0533)">
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9008">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-0"
-           x="223.43201"
-           y="136.259"
-           id="use9010" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9012">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-1"
-           x="229.368"
-           y="137.75301"
-           id="use9014" />
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-2"
-           x="232.18681"
-           y="137.75301"
-           id="use9016" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9018">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-4"
-           x="239.15199"
-           y="136.259"
-           id="use9020" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9022">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-5"
-           x="249.67052"
-           y="136.259"
-           id="use9024" />
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-6"
-           x="253.54497"
-           y="136.259"
-           id="use9026" />
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-7"
-           x="258.52628"
-           y="136.259"
-           id="use9028" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9030">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-8"
-           x="264.05899"
-           y="132.59399"
-           id="use9032" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9034">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-11"
-           x="270.285"
-           y="132.59399"
-           id="use9036" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9038">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-14"
-           x="276.41501"
-           y="125.2"
-           id="use9040" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9042">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-9"
-           x="283.56"
-           y="131.20599"
-           id="use9044" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9046">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-12"
-           x="289.358"
-           y="131.20599"
-           id="use9048" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9050">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-3"
-           x="292.47198"
-           y="131.20599"
-           id="use9052" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9054">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-16"
-           x="297.89999"
-           y="132.202"
-           id="use9056" />
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-17"
-           x="300.55801"
-           y="132.202"
-           id="use9058" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9060">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-13"
-           x="304.28"
-           y="131.20599"
-           id="use9062" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#00000e;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-         d="m -0.061,0.268 24,0"
-         transform="matrix(1,0,0,-1,283.561,133.768)"
-         id="path9064" />
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9066">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-10"
-           x="283.561"
-           y="139.69501"
-           id="use9068" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9070">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-12"
-           x="289.358"
-           y="139.69501"
-           id="use9072" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9074">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-3"
-           x="292.47198"
-           y="139.69501"
-           id="use9076" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9078">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-16"
-           x="297.89999"
-           y="140.69099"
-           id="use9080" />
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-17"
-           x="300.55801"
-           y="140.69099"
-           id="use9082" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9084">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-13"
-           x="304.28"
-           y="139.69501"
-           id="use9086" />
-      </g>
-      <g
-         style="fill:#00000e;fill-opacity:1"
-         id="g9088">
-        <use
-           style="fill:#00000e;fill-opacity:1"
-           height="3188.9763"
-           width="6980.3149"
-           xlink:href="#textext-0b2e032b-15"
-           x="308.58899"
-           y="125.2"
-           id="use9090" />
-      </g>
-    </g>
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-0"
+       x="223.43201"
+       y="136.259"
+       id="use9010"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-1"
+       x="229.368"
+       y="137.75301"
+       id="use9014"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-2"
+       x="232.18681"
+       y="137.75301"
+       id="use9016"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-4"
+       x="239.15199"
+       y="136.259"
+       id="use9020"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-5"
+       x="249.67052"
+       y="136.259"
+       id="use9024"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-6"
+       x="253.54497"
+       y="136.259"
+       id="use9026"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-7"
+       x="258.52628"
+       y="136.259"
+       id="use9028"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-8"
+       x="264.05899"
+       y="132.59399"
+       id="use9032"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-11"
+       x="270.285"
+       y="132.59399"
+       id="use9036"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-14"
+       x="276.41501"
+       y="125.2"
+       id="use9040"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-9"
+       x="283.56"
+       y="131.20599"
+       id="use9044"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-12"
+       x="289.358"
+       y="131.20599"
+       id="use9048"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-3"
+       x="292.47198"
+       y="131.20599"
+       id="use9052"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-16"
+       x="297.89999"
+       y="132.202"
+       id="use9056"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-17"
+       x="300.55801"
+       y="132.202"
+       id="use9058"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-13"
+       x="304.28"
+       y="131.20599"
+       id="use9062"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <path
+       id="path9064"
+       d="m 2803.8134,-393.11127 96.407,0"
+       style="fill:#00000e;fill-opacity:1;stroke:#000000;stroke-width:4.01696157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-10"
+       x="283.561"
+       y="139.69501"
+       id="use9068"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-12"
+       x="289.358"
+       y="139.69501"
+       id="use9072"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-3"
+       x="292.47198"
+       y="139.69501"
+       id="use9076"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-16"
+       x="297.89999"
+       y="140.69099"
+       id="use9080"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-17"
+       x="300.55801"
+       y="140.69099"
+       id="use9082"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-13"
+       x="304.28"
+       y="139.69501"
+       id="use9086"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
+    <use
+       style="fill:#00000e;fill-opacity:1"
+       height="3188.9763"
+       width="6980.3149"
+       xlink:href="#textext-0b2e032b-15"
+       x="308.58899"
+       y="125.2"
+       id="use9090"
+       transform="matrix(4.0169615,0,0,4.0169615,1665.0048,-929.37563)" />
     <image
-       width="458.2785"
-       height="115.62719"
+       width="343.70886"
+       height="86.720383"
        id="image4060"
-       x="3436.8877"
-       y="-1330.9829"
+       x="2577.6655"
+       y="-735.07288"
        xlink:href="/home/edgar/Desktop/poster_sbgf/Figs/matrix_eq.png"
        sodipodi:absref="/home/edgar/Desktop/poster_sbgf/Figs/matrix_eq.png" />
     <flowRoot
-       transform="matrix(0.84872653,0,0,0.84872653,988.0914,-4273.243)"
+       transform="matrix(0.63654486,0,0,0.63654486,741.0685,-2941.7678)"
        xml:space="preserve"
        id="flowRoot5160"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -2330,7 +2189,7 @@
    style="font-size:32.9906044px;font-weight:bold"
    id="flowSpan5182">S</flowSpan>) or lower crust basalt underplating (<flowSpan
    style="font-size:32.9906044px;font-weight:bold"
-   id="flowSpan5180">U</flowSpan>) such as in the Paraná basin (Santos and Ussami, 2011; Mariani el Al, 2013).</flowPara><flowPara
+   id="flowSpan5180">U</flowSpan>) such as in the Paraná basin (Santos and Ussami, 2011; Mariani et al., 2013).</flowPara><flowPara
          style="font-size:32.9906044px"
          id="flowPara4341">Cratonic lithosphere is characterized by negative vertical gradient.</flowPara><flowPara
          id="flowPara5174"
@@ -2338,455 +2197,313 @@
          id="flowPara5168"
          style="font-size:32.9906044px" /><flowPara
          id="flowPara5170"
-         style="font-size:32.9906044px" /></flowRoot>    <g
-       id="g6608">
-      <g
-         transform="translate(1448.6614,-998.11031)"
-         id="g9146">
-        <flowRoot
-           transform="matrix(0.68618219,0,0,0.68618219,2241.3731,-2368.5042)"
-           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           id="flowRoot604720-75-7-5-0"
-           xml:space="preserve"><flowRegion
-             id="flowRegion604722-3-6-2-89"><rect
-               style="text-align:center;text-anchor:middle"
-               y="1186.4099"
-               x="1064.0365"
-               height="87.440338"
-               width="2798.0903"
-               id="rect604724-8-4-7-4" /></flowRegion><flowPara
-             style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-             id="flowPara604726-1-3-8-3">VERTICAL DERIVATIVE (G<flowSpan
+         style="font-size:32.9906044px" /></flowRoot>    <flowRoot
+       transform="matrix(0.51463661,0,0,0.51463661,2767.5257,-2261.7964)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-7-5-0"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-6-2-89"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1186.4099"
+           x="1064.0365"
+           height="87.440338"
+           width="2798.0903"
+           id="rect604724-8-4-7-4" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-3-8-3">VERTICAL DERIVATIVE (G<flowSpan
    id="flowSpan4245"
-   style="font-size:65.00091553%;baseline-shift:sub">ZZ</flowSpan>)</flowPara></flowRoot>        <rect
-           y="-1592.9482"
-           x="2982.939"
-           height="97.645706"
-           width="1908.4528"
-           id="rect5285-3-6-0-1"
-           style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.93303633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <flowRoot
-           transform="matrix(1.0201512,0,0,1.1440429,1502.1609,-2935.0404)"
-           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           id="flowRoot604720-75-7-5-0-5"
-           xml:space="preserve"><flowRegion
-             id="flowRegion604722-3-6-2-89-7"><rect
-               style="text-align:center;text-anchor:middle"
-               y="1172.9418"
-               x="1227.5635"
-               height="83.025024"
-               width="2379.1021"
-               id="rect604724-8-4-7-4-5" /></flowRegion><flowPara
-             style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-             id="flowPara604726-1-3-8-3-7">VERTICAL DERIVATIVE (g<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub">ZZ</flowSpan>)</flowPara></flowRoot>    <rect
+       y="-1680.1295"
+       x="3323.7002"
+       height="73.234276"
+       width="1431.3395"
+       id="rect5285-3-6-0-1"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.69977689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.76511335,0,0,0.85803212,2213.1166,-2686.6986)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-7-5-0-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-6-2-89-7"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1172.9418"
+           x="1227.5635"
+           height="83.025024"
+           width="2379.1021"
+           id="rect604724-8-4-7-4-5" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-3-8-3-7">VERTICAL DERIVATIVE (g<flowSpan
    id="flowSpan4245-7"
-   style="font-size:65.00091553%;baseline-shift:sub">ZZ</flowSpan>)</flowPara></flowRoot>      </g>
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz0_km.png"
-         xlink:href="./Figs/grav/gzz0_km.png"
-         y="-2420.4624"
-         x="6460.2544"
-         id="image4790"
-         height="317.23801"
-         width="354.33072"
-         clip-path="url(#clipPath6600)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz50_km.png"
-         xlink:href="./Figs/grav/gzz50_km.png"
-         y="-2420.4624"
-         x="7239.7822"
-         id="image4855"
-         height="317.23801"
-         width="354.33072"
-         clip-path="url(#clipPath6596)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz100_km.png"
-         xlink:href="./Figs/grav/gzz100_km.png"
-         y="-2420.4624"
-         x="8019.3096"
-         id="image4920"
-         height="317.23801"
-         width="354.33072"
-         inkscape:transform-center-x="1879.7413"
-         inkscape:transform-center-y="1158.0633"
-         clip-path="url(#clipPath6592)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile0_km.png"
-         xlink:href="./Figs/grav/gzz_profile0_km.png"
-         y="-2063.6453"
-         x="6460.2544"
-         id="image5020"
-         height="279.31851"
-         width="354.33072"
-         inkscape:transform-center-x="59.055072"
-         inkscape:transform-center-y="-139.65932"
-         clip-path="url(#clipPath6588)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile50_km.png"
-         xlink:href="./Figs/grav/gzz_profile50_km.png"
-         y="-2068.2483"
-         x="7239.7822"
-         id="image5085"
-         height="283.92157"
-         width="354.33072"
-         clip-path="url(#clipPath6584)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile100_km.png"
-         xlink:href="./Figs/grav/gzz_profile100_km.png"
-         y="-2061.3669"
-         x="8019.3096"
-         id="image5150"
-         height="277.04022"
-         width="354.33072"
-         clip-path="url(#clipPath6580)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz25_km.png"
-         xlink:href="./Figs/grav/gzz25_km.png"
-         width="354.33072"
-         height="317.23798"
-         id="image3503"
-         x="6850.0186"
-         y="-2420.4624"
-         clip-path="url(#clipPath6576)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz75_km.png"
-         xlink:href="./Figs/grav/gzz75_km.png"
-         width="354.33072"
-         height="317.23798"
-         id="image3568"
-         x="7629.5459"
-         y="-2420.4624"
-         clip-path="url(#clipPath6572)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile25_km.png"
-         xlink:href="./Figs/grav/gzz_profile25_km.png"
-         width="354.33072"
-         height="282.10242"
-         id="image3633"
-         x="6850.0186"
-         y="-2066.4292"
-         clip-path="url(#clipPath6568)"
-         transform="translate(-2029.0963,23.685682)" />
-      <image
-         sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile75_km.png"
-         xlink:href="./Figs/grav/gzz_profile75_km.png"
-         width="354.33072"
-         height="283.92154"
-         id="image3719"
-         x="7629.5459"
-         y="-2068.2483"
-         clip-path="url(#clipPath6564)"
-         transform="translate(-2029.0963,23.685682)" />
-      <g
-         transform="matrix(0.69436743,0,0,0.69436743,4533.433,-3379.117)"
-         id="g5435">
-        <g
-           id="g5420">
-          <g
-             id="g5191"
-             transform="translate(0.49606299,-0.49606296)">
-            <g
-               id="g5178">
-              <g
-                 transform="translate(-1160.9375,4.3307114)"
-                 id="g4023">
-                <g
-                   id="g4015"
-                   style="stroke:none">
-                  <g
-                     transform="translate(-178.125,-231.24996)"
-                     id="g3885-2"
-                     style="stroke:none">
-                    <g
-                       id="g5040">
-                      <g
-                         id="g5032">
-                        <g
-                           id="g5025">
-                          <rect
-                             y="1558.6"
-                             x="1339.0625"
-                             height="75"
-                             width="203.125"
-                             id="rect3762-2-7"
-                             style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-                          <flowRoot
-                             transform="translate(40.625,-1971.0013)"
-                             style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                             id="flowRoot3764-5-04"
-                             xml:space="preserve"><flowRegion
-                               id="flowRegion3766-8-6"><rect
-                                 ry="1.5625"
-                                 style="text-align:center;text-anchor:middle;stroke:none"
-                                 y="3529.6013"
-                                 x="1301.5625"
-                                 height="71.875"
-                                 width="196.875"
-                                 id="rect3768-0-4" /></flowRegion><flowPara
-                               style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                               id="flowPara3770-4-00">0 km</flowPara></flowRoot>                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.69436743,0,0,0.69436743,4529.5397,-3379.117)"
-         id="g5339">
-        <g
-           id="g5328">
-          <g
-             transform="translate(-593.5123,3.8346484)"
-             id="g4023-4">
-            <g
-               style="stroke:none"
-               id="g5040-6"
-               transform="translate(-178.125,-231.24996)">
-              <g
-                 id="g5032-2">
-                <g
-                   id="g5025-8">
-                  <rect
-                     y="1558.6"
-                     x="1339.0625"
-                     height="75"
-                     width="203.125"
-                     id="rect3762-2-7-5"
-                     style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-                  <flowRoot
-                     transform="translate(40.625,-1971.0013)"
-                     style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                     id="flowRoot3764-5-04-5"
-                     xml:space="preserve"><flowRegion
-                       id="flowRegion3766-8-6-7"><rect
-                         ry="1.5625"
-                         style="text-align:center;text-anchor:middle;stroke:none"
-                         y="3529.6013"
-                         x="1301.5625"
-                         height="71.875"
-                         width="196.875"
-                         id="rect3768-0-4-2" /></flowRegion><flowPara
-                       style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                       id="flowPara3770-4-00-7">25 km</flowPara></flowRoot>                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.69436743,0,0,0.69436743,4525.6463,-3379.117)"
-         id="g5362">
-        <g
-           id="g5351">
-          <g
-             transform="translate(-204.70817,-227.41531)"
-             id="g3885-2-9"
-             style="stroke:none">
-            <g
-               id="g5040-7">
-              <g
-                 id="g5032-9">
-                <g
-                   id="g5025-7">
-                  <rect
-                     y="1558.6"
-                     x="1339.0625"
-                     height="75"
-                     width="203.125"
-                     id="rect3762-2-7-7"
-                     style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-                  <flowRoot
-                     transform="translate(40.625,-1971.0013)"
-                     style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                     id="flowRoot3764-5-04-1"
-                     xml:space="preserve"><flowRegion
-                       id="flowRegion3766-8-6-76"><rect
-                         ry="1.5625"
-                         style="text-align:center;text-anchor:middle;stroke:none"
-                         y="3529.6013"
-                         x="1301.5625"
-                         height="71.875"
-                         width="196.875"
-                         id="rect3768-0-4-4" /></flowRegion><flowPara
-                       style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                       id="flowPara3770-4-00-0">50 km</flowPara></flowRoot>                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.69436743,0,0,0.69436743,4521.753,-3379.117)"
-         id="g5385">
-        <g
-           id="g5374">
-          <g
-             transform="translate(362.22096,-227.41531)"
-             id="g3885-2-0"
-             style="stroke:none">
-            <g
-               id="g5040-2">
-              <g
-                 id="g5032-3">
-                <g
-                   id="g5025-5">
-                  <rect
-                     y="1558.6"
-                     x="1339.0625"
-                     height="75"
-                     width="203.125"
-                     id="rect3762-2-7-9"
-                     style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-                  <flowRoot
-                     transform="translate(40.625,-1971.0013)"
-                     style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                     id="flowRoot3764-5-04-0"
-                     xml:space="preserve"><flowRegion
-                       id="flowRegion3766-8-6-1"><rect
-                         ry="1.5625"
-                         style="text-align:center;text-anchor:middle;stroke:none"
-                         y="3529.6013"
-                         x="1301.5625"
-                         height="71.875"
-                         width="196.875"
-                         id="rect3768-0-4-3" /></flowRegion><flowPara
-                       style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                       id="flowPara3770-4-00-9">75 km</flowPara></flowRoot>                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.69436743,0,0,0.69436743,4517.8597,-3379.117)"
-         id="g5408">
-        <g
-           id="g5397">
-          <g
-             transform="translate(929.1501,-227.41531)"
-             id="g3885-2-1"
-             style="stroke:none">
-            <g
-               id="g5040-72">
-              <g
-                 id="g5032-0">
-                <g
-                   id="g5025-4">
-                  <rect
-                     y="1558.6"
-                     x="1339.0625"
-                     height="75"
-                     width="203.125"
-                     id="rect3762-2-7-59"
-                     style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:0.99212599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-                  <flowRoot
-                     transform="translate(40.625,-1971.0013)"
-                     style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-                     id="flowRoot3764-5-04-14"
-                     xml:space="preserve"><flowRegion
-                       id="flowRegion3766-8-6-6"><rect
-                         ry="1.5625"
-                         style="text-align:center;text-anchor:middle;stroke:none"
-                         y="3529.6013"
-                         x="1301.5625"
-                         height="71.875"
-                         width="196.875"
-                         id="rect3768-0-4-8" /></flowRegion><flowPara
-                       style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none"
-                       id="flowPara3770-4-00-73">100 km</flowPara></flowRoot>                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <flowRoot
-         clip-path="url(#clipPath6560)"
-         transform="translate(-550.56682,-4570.6858)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot6862"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6864"><rect
-             y="2385.7473"
-             x="6780.4912"
-             height="46.403839"
-             width="44.19418"
-             id="rect6866" /></flowRegion><flowPara
-           style="font-weight:bold"
-           id="flowPara6868">U</flowPara></flowRoot>      <path
-         transform="matrix(0.7535338,0.07868844,-0.07868844,0.7535338,1343.3765,-4735.278)"
-         clip-path="url(#clipPath6556)"
-         inkscape:connector-curvature="0"
-         id="path6676-6"
-         d="m 6623.1659,2601.2644 139.5548,88.5587"
-         style="fill:none;stroke:#000000;stroke-width:3.87513781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)" />
-      <path
-         transform="matrix(0.72921143,0.04128269,-0.04128269,0.72921143,1430.8292,-4503.9684)"
-         clip-path="url(#clipPath6552)"
-         inkscape:connector-curvature="0"
-         id="path6676-6-5"
-         d="m 6623.1659,2601.2644 139.5548,88.5587"
-         style="fill:none;stroke:#000000;stroke-width:3.87513781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)" />
-      <flowRoot
-         clip-path="url(#clipPath6548)"
-         transform="translate(-559.04242,-4613.4522)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot6870"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6872"><rect
-             y="2336.0288"
-             x="6816.9512"
-             height="49.718445"
-             width="44.194176"
-             id="rect6874" /></flowRegion><flowPara
-           style="font-weight:bold"
-           id="flowPara6876">S</flowPara></flowRoot>    </g>
+   style="font-size:65.00091553%;baseline-shift:sub">ZZ</flowSpan>)</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz0_km.png"
+       xlink:href="./Figs/grav/gzz0_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6600)"
+       width="354.33072"
+       height="317.23801"
+       id="image4790"
+       x="6460.2544"
+       y="-2420.4624" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz50_km.png"
+       xlink:href="./Figs/grav/gzz50_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6596)"
+       width="354.33072"
+       height="317.23801"
+       id="image4855"
+       x="7239.7822"
+       y="-2420.4624" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz100_km.png"
+       xlink:href="./Figs/grav/gzz100_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6592)"
+       inkscape:transform-center-y="1158.0633"
+       inkscape:transform-center-x="1879.7413"
+       width="354.33072"
+       height="317.23801"
+       id="image4920"
+       x="8019.3096"
+       y="-2420.4624" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile0_km.png"
+       xlink:href="./Figs/grav/gzz_profile0_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6588)"
+       inkscape:transform-center-y="-139.65932"
+       inkscape:transform-center-x="59.055072"
+       width="354.33072"
+       height="279.31851"
+       id="image5020"
+       x="6460.2544"
+       y="-2063.6453" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile50_km.png"
+       xlink:href="./Figs/grav/gzz_profile50_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6584)"
+       width="354.33072"
+       height="283.92157"
+       id="image5085"
+       x="7239.7822"
+       y="-2068.2483" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile100_km.png"
+       xlink:href="./Figs/grav/gzz_profile100_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6580)"
+       width="354.33072"
+       height="277.04022"
+       id="image5150"
+       x="8019.3096"
+       y="-2061.3669" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz25_km.png"
+       xlink:href="./Figs/grav/gzz25_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6576)"
+       y="-2420.4624"
+       x="6850.0186"
+       id="image3503"
+       height="317.23798"
+       width="354.33072" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz75_km.png"
+       xlink:href="./Figs/grav/gzz75_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6572)"
+       y="-2420.4624"
+       x="7629.5459"
+       id="image3568"
+       height="317.23798"
+       width="354.33072" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile25_km.png"
+       xlink:href="./Figs/grav/gzz_profile25_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6568)"
+       y="-2066.4292"
+       x="6850.0186"
+       id="image3633"
+       height="282.10242"
+       width="354.33072" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/grav/gzz_profile75_km.png"
+       xlink:href="./Figs/grav/gzz_profile75_km.png"
+       transform="matrix(0.74999995,0,0,0.74999995,-1529.3221,280.92853)"
+       clip-path="url(#clipPath6564)"
+       y="-2068.2483"
+       x="7629.5459"
+       id="image3719"
+       height="283.92154"
+       width="354.33072" />
+    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7"
+       width="105.78253"
+       height="39.058167"
+       x="3400.3328"
+       y="-1577.9248" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot3620"
+       id="flowRoot3764-5-04"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,2724.1383,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6"><rect
+           id="rect3768-0-4"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">0 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-5"
+       width="105.78253"
+       height="39.058167"
+       x="3692.656"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,3016.4613,-3416.0548)"><flowRegion
+         id="flowRegion3766-8-6-7"><rect
+           id="rect3768-0-4-2"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-7"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">25 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-7"
+       width="105.78253"
+       height="39.058167"
+       x="3984.9785"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,3308.784,-3416.0549)"><flowRegion
+         id="flowRegion3766-8-6-76"><rect
+           id="rect3768-0-4-4"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-0"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">50 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-9"
+       width="105.78253"
+       height="39.058167"
+       x="4277.3013"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,3601.1068,-3416.0549)"><flowRegion
+         id="flowRegion3766-8-6-1"><rect
+           id="rect3768-0-4-3"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-9"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">75 km</flowPara></flowRoot>    <rect
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:0.51667494;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3762-2-7-59"
+       width="105.78253"
+       height="39.058167"
+       x="4569.624"
+       y="-1577.9248" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764-5-04-14"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.52077554,0,0,0.52077554,3893.4297,-3416.0549)"><flowRegion
+         id="flowRegion3766-8-6-6"><rect
+           id="rect3768-0-4-8"
+           width="196.875"
+           height="71.875"
+           x="1301.5625"
+           y="3529.6013"
+           style="text-align:center;text-anchor:middle;stroke:none"
+           ry="1.5625" /></flowRegion><flowPara
+         id="flowPara3770-4-00-73"
+         style="font-size:50px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none">100 km</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6862"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(0,-3199.6075)"><flowRegion
-         id="flowRegion3622"><rect
-           id="rect3624"
-           width="43.310623"
-           height="41.913509"
-           x="4290.5459"
-           y="1482.8826" /></flowRegion><flowPara
-         id="flowPara3626">ꔷ</flowPara></flowRoot>    <g
-       id="g3659">
-      <rect
-         style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.35049582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5285-3-7"
-         width="1519.2716"
-         height="95.39991"
-         x="37.608318"
-         y="-356.23801" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot604720-75-9"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="matrix(0.98911899,0,0,1,-1490.2124,-1514.2993)"><flowRegion
-           id="flowRegion604722-3-8"><rect
-             id="rect604724-8-5"
-             width="1542.0527"
-             height="86.890457"
-             x="1536.9227"
-             y="1159.6835"
-             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara604726-1-4"
-           style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">TM MODE</flowPara></flowRoot>    </g>
-    <image
+       transform="matrix(0.74999995,0,0,0.74999995,-420.42508,-3164.8499)"
+       clip-path="url(#clipPath6560)"><flowRegion
+         id="flowRegion6864"><rect
+           id="rect6866"
+           width="44.19418"
+           height="46.403839"
+           x="6780.4912"
+           y="2385.7473" /></flowRegion><flowPara
+         id="flowPara6868"
+         style="font-weight:bold">U</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:3.87513781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="m 6623.1659,2601.2644 139.5548,88.5587"
+       id="path6676-6"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath6556)"
+       transform="matrix(0.56515031,0.05901633,-0.05901633,0.56515031,1000.0323,-3288.294)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.87513781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend)"
+       d="m 6623.1659,2601.2644 139.5548,88.5587"
+       id="path6676-6-5"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath6552)"
+       transform="matrix(0.54690854,0.03096202,-0.03096202,0.54690854,1065.6218,-3114.8118)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6870"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.74999995,0,0,0.74999995,-426.78178,-3196.9246)"
+       clip-path="url(#clipPath6548)"><flowRegion
+         id="flowRegion6872"><rect
+           id="rect6874"
+           width="44.194176"
+           height="49.718445"
+           x="6816.9512"
+           y="2336.0288" /></flowRegion><flowPara
+         id="flowPara6876"
+         style="font-weight:bold">S</flowPara></flowRoot>    <rect
+       y="-4.0142169"
+       x="28.20624"
+       height="71.549927"
+       width="1139.4536"
+       id="rect5285-3-7"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.26287174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74183919,0,0,0.74999995,-1117.6592,-872.56013)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-9"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-8"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1159.6835"
+           x="1536.9227"
+           height="86.890457"
+           width="1542.0527"
+           id="rect604724-8-5" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-4">TM MODE</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tm05B_model014.png"
        xlink:href="./Figs/MT/tm05B_model014.png"
        y="-379.64929"
@@ -2795,7 +2512,7 @@
        height="424.86877"
        width="1240.1575"
        clip-path="url(#clipPath3949)"
-       transform="matrix(1.0674757,0,0,1.0674757,2807.4832,136.94919)" />
+       transform="matrix(0.80060672,0,0,0.80060672,2105.6123,365.87616)" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte06_model019.png"
        xlink:href="./Figs/MT/tmte06_model019.png"
@@ -2805,7 +2522,7 @@
        height="424.86877"
        width="1240.1575"
        clip-path="url(#clipPath3955)"
-       transform="matrix(1.0719346,0,0,1.0719346,4254.039,278.78405)" />
+       transform="matrix(0.8039509,0,0,0.8039509,3190.529,472.25229)" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tp05_model020.png"
        xlink:href="./Figs/MT/tp05_model020.png"
@@ -2815,7 +2532,7 @@
        height="424.86877"
        width="1240.1575"
        clip-path="url(#clipPath3961)"
-       transform="matrix(1.0797158,0,0,1.0797158,5709.4098,103.21742)" />
+       transform="matrix(0.8097868,0,0,0.8097868,4282.0571,340.57733)" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/SBGF/tmte03_55_mod_model009.png"
        xlink:href="./Figs/MT/SBGF/tmte03_55_mod_model009.png"
@@ -2825,16 +2542,16 @@
        height="424.86877"
        width="1240.1575"
        clip-path="url(#clipPath4028)"
-       transform="matrix(1.0781019,0,0,1.0781019,7547.5752,-550.88936)" />
+       transform="matrix(0.80857637,0,0,0.80857637,5660.681,-150.00272)" />
     <rect
-       y="-356.51404"
-       x="1596.6412"
-       height="95.698044"
-       width="1483.8827"
+       y="-4.2212405"
+       x="1197.4808"
+       height="71.773529"
+       width="1112.912"
        id="rect5285-3-7-1"
-       style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.30624151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.22968102;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="matrix(0.98911899,0,0,1,133.95966,-1509.8035)"
+       transform="matrix(0.74183919,0,0,0.74999995,100.46974,-869.18828)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot604720-75-9-4"
        xml:space="preserve"><flowRegion
@@ -2846,89 +2563,83 @@
            width="1502.5033"
            id="rect604724-8-5-0" /></flowRegion><flowPara
          style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
-         id="flowPara604726-1-4-1">TM AND TE MODES</flowPara></flowRoot>    <g
-       id="g3691">
-      <rect
-         style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:4.95169449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5285-3-7-7"
-         width="1979.3003"
-         height="94.864098"
-         x="3120.5862"
-         y="-356.00284" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot604720-75-9-5"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="matrix(0.98911899,0,0,1,1591.9868,-1515.1003)"><flowRegion
-           id="flowRegion604722-3-8-2"><rect
-             id="rect604724-8-5-8"
-             width="2013.8231"
-             height="92.478928"
-             x="1536.9227"
-             y="1159.6835"
-             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara604726-1-4-4"
-           style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">TM, TE AND TP MODES</flowPara></flowRoot>    </g>
-    <g
-       id="g4975">
-      <rect
-         style="fill:#3b79b2;fill-opacity:1;stroke:#3b79b2;stroke-width:5.11543894;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5285-3-7-7-5"
-         width="2067.7192"
-         height="96.912582"
-         x="4272.2432"
-         y="-1598.2908" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot604720-75-9-5-3"
-         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="matrix(0.98911899,0,0,1,2747.9912,-2761.4093)"><flowRegion
-           id="flowRegion604722-3-8-2-7"><rect
-             id="rect604724-8-5-8-0"
-             width="2098.5723"
-             height="92.478928"
-             x="1536.9227"
-             y="1159.6835"
-             style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara604726-1-4-4-8"
-           style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold">PREVIOUSLY MT INVERSION</flowPara></flowRoot>    </g>
-    <image
+         id="flowPara604726-1-4-1">TM AND TE MODES</flowPara></flowRoot>    <rect
+       y="-3.8378408"
+       x="2340.4395"
+       height="71.148071"
+       width="1484.4751"
+       id="rect5285-3-7-7"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.71377063;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74183919,0,0,0.74999995,1193.99,-873.16088)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-9-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-8-2"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1159.6835"
+           x="1536.9227"
+           height="92.478928"
+           width="2013.8231"
+           id="rect604724-8-5-8" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-4-4">TM, TE AND TP MODES</flowPara></flowRoot>    <rect
+       y="-935.55371"
+       x="3204.1821"
+       height="72.684433"
+       width="1550.7893"
+       id="rect5285-3-7-7-5"
+       style="fill:#5995a6;fill-opacity:1;stroke:#5995a6;stroke-width:3.83657885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="matrix(0.74183919,0,0,0.74999995,2060.9933,-1807.8926)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot604720-75-9-5-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion604722-3-8-2-7"><rect
+           style="text-align:center;text-anchor:middle"
+           y="1159.6835"
+           x="1536.9227"
+           height="92.478928"
+           width="2098.5723"
+           id="rect604724-8-5-8-0" /></flowRegion><flowPara
+         style="font-size:72px;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Sans Bold"
+         id="flowPara604726-1-4-4-8">PREVIOUSLY MT INVERSION</flowPara></flowRoot>    <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tp05.020_1-15_tp.png"
        xlink:href="./Figs/MT/tp05.020_1-15_tp.png"
-       y="124.36526"
-       x="4426.7251"
+       y="353.4382"
+       x="3320.0437"
        id="image5068"
-       height="875.63464"
-       width="673.22833" />
+       height="656.72595"
+       width="504.9212" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tm05B.014_rsp31-43.png"
        xlink:href="./Figs/MT/tm05B.014_rsp31-43.png"
-       y="130.24033"
-       x="47.486568"
+       y="360.84451"
+       x="35.614925"
        id="image5503"
-       height="869.11298"
-       width="708.66144" />
+       height="651.83472"
+       width="531.49603" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tp05.020_rspTETM01-15.png"
        xlink:href="./Figs/MT/tp05.020_rspTETM01-15.png"
-       y="121.81621"
-       x="3131.7126"
+       y="351.52643"
+       x="2348.7844"
        id="image5568"
-       height="889.28766"
-       width="708.66144" />
+       height="666.9657"
+       width="531.49603" />
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/MT/tmte06.019_rspTETM16-30.png"
        xlink:href="./Figs/MT/tmte06.019_rspTETM16-30.png"
-       y="123.64726"
-       x="1602.0737"
+       y="351.39972"
+       x="1201.5552"
        id="image5643"
-       height="889.28766"
-       width="708.66144" />
+       height="666.9657"
+       width="531.49603" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3628"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(144.22118,-3211.3976)"
+       transform="matrix(0.74999995,0,0,0.74999995,108.16588,-2145.3838)"
        clip-path="url(#clipPath6544)"><flowRegion
          id="flowRegion3630"><rect
            id="rect3632"
@@ -2938,7 +2649,7 @@
            y="1470.3085" /></flowRegion><flowPara
          id="flowPara3634"
          style="font-size:32px">ꔷ</flowPara></flowRoot>    <flowRoot
-       transform="translate(141.59413,-3148.8981)"
+       transform="matrix(0.74999995,0,0,0.74999995,106.19559,-2098.5091)"
        xml:space="preserve"
        id="flowRoot3628-2"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -2950,7 +2661,7 @@
            y="1470.3085" /></flowRegion><flowPara
          id="flowPara3634-4"
          style="font-size:32px">ꔷ</flowPara></flowRoot>    <flowRoot
-       transform="translate(4110.4872,-3881.9701)"
+       transform="matrix(0.74999995,0,0,0.74999995,3082.8652,-2648.3131)"
        xml:space="preserve"
        id="flowRoot4343-4-1"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
@@ -2967,7 +2678,7 @@
        xml:space="preserve"
        id="flowRoot4061"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(76.340415,-3379.0783)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,57.25531,-2271.1443)"><flowRegion
          id="flowRegion4063"><rect
            id="rect4065"
            width="719.32367"
@@ -2989,7 +2700,7 @@
        xml:space="preserve"
        id="flowRoot4061-3"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1616.6019,-3344.4063)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,1212.4513,-2245.1403)"><flowRegion
          id="flowRegion4063-0"><rect
            id="rect4065-2"
            width="677.33777"
@@ -3009,7 +2720,7 @@
        xml:space="preserve"
        id="flowRoot4061-3-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(3150.3655,-3328.1518)"><flowRegion
+       transform="matrix(0.74999995,0,0,0.74999995,2362.774,-2232.9494)"><flowRegion
          id="flowRegion4063-0-5"><rect
            id="rect4065-2-8"
            width="501.25992"
@@ -3026,35 +2737,25 @@
          style="font-size:32px;text-align:justify;text-anchor:start" /><flowPara
          id="flowPara4074-1-0"
          style="font-size:32px;text-align:justify;text-anchor:start" /></flowRoot>    <rect
-       style="opacity:0.67901234;fill:none;stroke:#000000;stroke-width:1.77247584;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.67901234;fill:none;stroke:#000000;stroke-width:1.32935679;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2988"
-       width="6305.3145"
-       height="4179.3301"
-       x="36.319309"
-       y="-3163.2886" />
+       width="4728.9854"
+       height="3134.4973"
+       x="27.239483"
+       y="-2109.302" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="path4544"
        sodipodi:cx="7185.0757"
        sodipodi:cy="445.54782"
        sodipodi:rx="289.45789"
        sodipodi:ry="257.84473"
        d="m 7474.5336,445.54782 a 289.45789,257.84473 0 1 1 -578.9158,0 289.45789,257.84473 0 1 1 578.9158,0 z"
-       transform="translate(-1189.4446,-3333.9634)" />
-    <image
-       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/logo/logoUSP.gif"
-       xlink:href="./Figs/logo/logoUSP.gif"
-       inkscape:transform-center-y="4664.2131"
-       inkscape:transform-center-x="-1995.4508"
-       width="267.25171"
-       height="107.3388"
-       id="image4228"
-       x="5871.1479"
-       y="-3103.2908" />
+       transform="matrix(0.74999995,0,0,0.74999995,-892.08339,-2244.8081)" />
     <a
        xlink:href="./Figs/logo/logo_cnq.svg"
-       transform="matrix(0.58541193,0,0,0.58541193,5888.4053,-2931.5774)"
+       transform="matrix(0.4461857,0,0,0.4461857,4345.9597,-1808.3073)"
        id="a5937">
       <g
          id="g5928"
@@ -3096,10 +2797,27 @@
     <image
        sodipodi:absref="/home/edgar/work/agufall2013/./Figs/logo/inpe.png"
        xlink:href="./Figs/logo/inpe.png"
-       width="131.89937"
-       height="106.86736"
+       width="131.19812"
+       height="106.29921"
        id="image3834"
-       x="5762.1992"
-       y="-2962.5427" />
+       x="4321.4385"
+       y="-1963.8052" />
+    <image
+       sodipodi:absref="/home/edgar/work/agufall2013/./Figs/logo/logo_USP.jpg"
+       xlink:href="./Figs/logo/logo_USP.jpg"
+       width="196.8196"
+       height="79.724403"
+       id="image6857"
+       x="4406.1021"
+       y="-2067.615" />
+    <image
+       y="-4075.6572"
+       x="6845.0928"
+       id="image6903"
+       xlink:href="file:///home/edgar/work/agufall2013/Figs/logo/12-07-06-logo-unicamp.jpg"
+       height="560.95203"
+       width="533.5517"
+       clip-path="url(#clipPath6908)"
+       transform="matrix(0.22989065,0,0,0.22989065,2988.5577,-1040.4187)" />
   </g>
 </svg>
